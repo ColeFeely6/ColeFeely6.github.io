@@ -73,28 +73,27 @@
     - title: Personal Website and Blog
       year: Dec 2022- PRES
       description: 
-        - 
+        - This website you are on now! It was built using Jekyll template and is hosted on GitHub pages
     - title: Connect-4 Artificial Intelligence
       year: Spr 2022
       description: 
-        - 
+        - A program that will optimally play variations of a Connect Four game against you using AI algorithms learned in CS 383
     - title: Concrete Paradise
       year: Spr 2020- PRES
       description: 
-        - 
+        - A project I undertook to build a gym out of basic materials from hardware stores during the pandemic when prices of equipment skyrocketed
     - title: Project Chime
       year: Fa 2022
       description: 
-        - 
+        - A Senior Project where my team built a system of devices that can send data over audio signal using commodity devices
     - title: Social Distancing Monitoring System
       year: Spr 2022
       description: 
-        - 
-
+        - A Junior Design Project- a one-chip, battery powered device designed for front desk attendants to alert them of an approaching visitor, and alert the visitor if they are violating the social distance between the desk
     - title: Tile Puzzle Solver
       year: Spr 2022
       description: 
-        - 
+        - A program that optimally solves the tile puzzle game with deep learning algorithms learned in CS 383
 
 - title: Relevant Courses
   type: nested_list
@@ -104,7 +103,7 @@
           - Artificial Intelligence
           - Advanced Programming
           - Systems Programming 
-          
+
       - title: Computer Engineering
         items:
           - Artificial Intelligence Based Network Design
