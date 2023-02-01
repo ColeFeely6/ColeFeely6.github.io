@@ -97,21 +97,29 @@
         - 
 
 - title: Relevant Courses
-  type: time_table
+  type: nested_list
   contents:
-      items: 
-        - Artificial Intelligence
-        - Artificial Intelligence Based Network Design
-        - Economics Money and Banking 
-        - Advanced Programming
-        - Embedded System Design
-        - Macro Economics
-        - Low Power Embedded System Design
-        - Computer Networking 
-        - Micro Economics
-        - Computer Architecture 
-        - Security Engineering
-        - System Software Programming
+      - title: Computer Science
+        items: 
+          - Artificial Intelligence
+          - Advanced Programming
+          - Systems Programming 
+      - title: Computer Engineering
+        items:
+          - Artificial Intelligence Based Network Design
+          - Embedded System Design
+          - Low- Power Embedded System Deesign
+          - Computer Networking 
+          - Computer Architecture
+          - Security Engineering
+  
+      - title: Economics
+        items:
+          - Economics Money and Banking 
+          - Fundamentals of the International Political Economy
+          - Intermediate Macroeconomics
+          - Intermediate MicroEconomics
+
 
 
 - title: Skills
