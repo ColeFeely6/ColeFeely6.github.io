@@ -6,7 +6,7 @@ subtitle: Computer Engineering and Economics at the University of Massachusetts 
 
 profile:
   align: right
-  image: headshot-2.png
+  image: headshot-1.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Boston, MA</p>
