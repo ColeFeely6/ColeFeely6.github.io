@@ -3,9 +3,11 @@
   contents:
     - name: Full Name
       value: Cole Feely
-    # - name: www.linkedin.com/in/cole-feely
+    - name: LinkedIn
+      value: www.linkedin.com/in/cole-feely
+    - name: Statement
+      value: Commonwealth Honors College student with a background as both a Software and Sales Engineer looking to bridge the gap between engineering and innovative technology with businesses and people
 
-    #   value: Commonwealth Honors College student with a background as both a Software and Sales Engineer looking to bridge the gap between engineering and innovative technology with businesses and people
 
 
 - title: Education
