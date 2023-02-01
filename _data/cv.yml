@@ -117,52 +117,53 @@
 - title: Skills
   type: nested_list
   contents:
-    # - title: Programming Languages
-    #   items: 
-    #     - Python
-    #     - JavaScript
-    #     - SQL
-    #     - Java
-    #     - Assembly
-    #     - C
-    #     - C++ 
-    #     - Verilog
-    #     - CSS 
-    #     - Bootstrap
-    #     - Bash
-    #     - Git
-    #     - Awk
+    - title: Programming Languages
+      items: 
+        - Python
+        - JavaScript
+        - SQL
+        - Java
+        - Assembly
+        - C
+        - C++ 
+        - Verilog
+        - CSS 
+        - Bootstrap
+        - Bash
+        - Git
+        - Awk
 
-    #   - title: Software and Environments
-    #   items: 
-    #     - Linux OS
-    #     - Jekyll
-    #     - Ember.js
-    #     - Node.js
-    #     - MATLAB
-    #     - GitHub
-    #     - Quartus
-    #     - Qsys
-    #     - Excel
+    - title: Software and Environments
+      items: 
+        - Linux OS
+        - Jekyll
+        - Ember.js
+        - Node.js
+        - MATLAB
+        - GitHub
+        - Quartus
+        - Qsys
+        - Excel
 
-    # - title: Electronics
-    #   items:
-    #     - ARM Hardware
-    #     - Nios
-    #     - DE1
-    #     - FPGA
-    #     - Microprocessors
-    #     - Basic PCB design
-    #     - AtMega Chips
-    #     - Arduino
-    #     - Raspberry Pi
-    # - title: Hardware/ Work Tools
-    #   items:
-    #     - Soldering
-    #     - Metal Welding
-    #     - Multimeter
-    #     - Oscilloscope
-    #     - Function Generator
+    - title: Electronics
+      items:
+        - ARM Hardware
+        - Nios
+        - DE1
+        - FPGA
+        - Microprocessors
+        - Basic PCB design
+        - AtMega Chips
+        - Arduino
+        - Raspberry Pi
+
+    - title: Hardware/ Work Tools
+      items:
+        - Soldering
+        - Metal Welding
+        - Multimeter
+        - Oscilloscope
+        - Function Generator
 
 - title: Other Interests
   type: list
