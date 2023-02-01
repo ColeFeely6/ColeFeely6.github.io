@@ -26,7 +26,7 @@
   contents:
     - title: OEM Sales Engineering Intern
       institution: Dell Technologies
-      year: June - Aug 2022
+      year: June- Aug 2022
       value: Austin, TX
       description:
         - Created a tool for Sales Engineers and Technical Consultants to quickly discern which GPU was best for their client’s intended workload with Dell Servers; sparked a greater conversation and project across the company
@@ -38,7 +38,7 @@
 
     - title: Software Engineering Co-op
       institution: Microshare
-      year: May 2020 - Sept. 2021
+      year: May 2020- Sept. 2021
       value: Haverill, MA
       description:
         - Built both a front-end Ember application and back-end API to query an SQL database with critical company information using SQL, JavaScript, Java, CSS, Bootstrap, handlebars and HTML; hosted via the Azure Cloud
@@ -48,7 +48,7 @@
 
     - title: Electrical and Computer Engineering Tutor and Teaching Assistant
       institution: University of Massachusetts Amherst
-      year: Sept. 2021- Present
+      year: Sept. 2021- PRES
       value: Amherst, MA
       description: 
         - Selected by Professor to host weekly office hours to answer students’ various questions on assignments in MATLAB, EXCEL, other programming languages and electronics design
@@ -66,34 +66,105 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Project DOMUM 
+      year: Sept 2022- PRES
+      description: 
+        - Domum is a low cost and easily installed IoT system designed for elders with mental or physical disabilities looking to lead an independent life at home or for retirement homes and hospitals
+    - title: Personal Website and Blog
+      year: Dec 2022- PRES
+      description: 
+        - 
+    - title: Connect-4 Artificial Intelligence
+      year: Spr 2022
+      description: 
+        - 
+    - title: Concrete Paradise
+      year: Spr 2020- PRES
+      description: 
+        - 
+    - title: Project Chime
+      year: Fa 2022
+      description: 
+        - 
+    - title: Social Distancing Monitoring System
+      year: Spr 2022
+      description: 
+        - 
+
+    - title: Tile Puzzle Solver
+      year: Spr 2022
+      description: 
+        - 
 
 - title: Relevant Courses
   type: time_table
   contents:
-    - year: 1921
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Artificial Intelligence
+        - Artificial Intelligence Based Network Design
+        - Economics Money and Banking 
+        - Advanced Programming
+        - Embedded System Design
+        - Macro Economics
+        - Low Power Embedded System Design
+        - Computer Networking 
+        - Micro Economics
+        - Computer Architecture 
+        - Security Engineering
+        - System Software Programming
+
 
 - title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python
+        - JavaScript
+        - SQL
+        - Java
+        - Assembly
+        - C
+        - C++ 
+        - Verilog
+        - CSS 
+        - Bootstrap
+        - Bash
+        - Git
+        - Awk
+
+      - title: Software and Environments
+      items: 
+        - Linux OS
+        - Jekyll
+        - Ember.js
+        - Node.js
+        - MATLAB
+        - GitHub
+        - Quartus
+        - Qsys
+        - Excel
+
+    - title: Electronics
       items:
-        - Description 1.
-        - Description 2.
+        - ARM Hardware
+        - Nios
+        - DE1
+        - FPGA
+        - Microprocessors
+        - Basic PCB design
+        - AtMega Chips
+        - Arduino
+        - Raspberry Pi
+    - title: Hardware/ Work Tools
+      items:
+        - Soldering
+        - Metal Welding
+        - Multimeter
+        - Oscilloscope
+        - Function Generator
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Weightlifting, Songwriting, Music, Guitar, Raspberry Pi Projects, Cooking, Chess, Wellness, Boxing, Running
+    - Weightlifting, Songwriting, Music, Guitar, Raspberry Pi Projects, Cooking, Chess, Wellness, Boxing, Running
