@@ -2,45 +2,43 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Cole Feely
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science
+      institution: University of Massachusetts Amherst
+      year: 2019-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Computer Engineering Major
+        - Economics Minor
+        - Commonwealth Honors College
+        - GPA 3.8
+
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: OEM Sales Engineering Intern
+      institution: Dell Technologies
+      year: June - August 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Created a tool for Sales Engineers and Technical Consultants to quickly discern which GPU was best for their client’s intended workload with Dell Servers; sparked a greater conversation and project across the company
+        - Worked with leading GPU brands like NVIDIA, AMD and Intel to analyze their products and their applications; Interviewed and networked with client companies to further gauge market opinions and happenings
+        - Presented this tool, my pitch and predictions according to recent market trends to multiple executive teams across the company
+        - Attended Executive Board client meetings and contributed to conversations on go-to market strategies
+        - Created a reference tool for Technical Consultants when working with clients to quickly determine which other products are
+needed for the solution to eliminate unnecessary inquiries with other parts of the company, saving time and improving profits
+
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
