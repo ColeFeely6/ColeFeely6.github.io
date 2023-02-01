@@ -12,7 +12,7 @@
   contents:
     - title: Bachelor of Science
       institution: University of Massachusetts Amherst
-      year: Fall 2019- Spring 2023
+      year: Fa 2019- Spr 2023
       description:
         - Computer Engineering Major
         - Economics Minor
@@ -25,7 +25,7 @@
   contents:
     - title: OEM Sales Engineering Intern
       institution: Dell Technologies
-      year: June - August 2022
+      year: June - Aug 2022
       value: Austin, TX
       description:
         - Created a tool for Sales Engineers and Technical Consultants to quickly discern which GPU was best for their client’s intended workload with Dell Servers; sparked a greater conversation and project across the company
@@ -37,7 +37,7 @@
 
     - title: Software Engineering Co-op
       institution: Microshare
-      year: May 2020 - September 2021
+      year: May 2020 - Sept. 2021
       value: Haverill, MA
       description:
         - Built both a front-end Ember application and back-end API to query an SQL database with critical company information using SQL, JavaScript, Java, CSS, Bootstrap, handlebars and HTML; hosted via the Azure Cloud
@@ -47,7 +47,7 @@
 
     - title: Electrical and Computer Engineering Tutor and Teaching Assistant
       institution: University of Massachusetts Amherst
-      year: September 2021- Present
+      year: Sept. 2021- Present
       value: Amherst, MA
       description: 
         - Selected by Professor to host weekly office hours to answer students’ various questions on assignments in MATLAB, EXCEL, other programming languages and electronics design
@@ -55,21 +55,21 @@
 
     - title: Co-Lead Electronics and Battery Management Engineer
       institution: Univesity of Massachusetts Amherst Robotics
-      year: Novemeber 2020- January 2021
+      year: Nov. 2020- Jan. 2021
       value: Amherst, MA
       description:
         - Team member of the student-organized robotics team that competes in the NASA Lunar Robotics competition; building a fully autonomous robot that can search through sand for intended objects and return to base
         - Lead designer of the robot’s battery management system; designing the distribution of power from LiPo batteries to the various motors, microcontrollers, sensors and servos governed by electronics to prevent fire hazards
 
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Relevant Courses
   type: time_table
   contents:
     - year: 1921
@@ -80,7 +80,7 @@
       items: 
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
     - title: Topic 1.
@@ -95,4 +95,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Weightlifting, Songwriting, Music, Guitar, Raspberry Pi Projects, Cooking, Chess, Wellness, Boxing, Running
