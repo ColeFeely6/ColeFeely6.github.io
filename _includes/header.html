@@ -63,6 +63,7 @@
               {%- endif %}
 
               <!-- Other pages -->
+              <!-- here is where i need to change something i think -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
