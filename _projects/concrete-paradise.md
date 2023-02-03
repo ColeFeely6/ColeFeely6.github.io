@@ -7,7 +7,7 @@ importance: 1
 category: fun
 ---
 
-![first squat]( first-squat.JPG)
+![first squat](assts/img/first-squat.JPG)
 
 
 
@@ -21,7 +21,7 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 
 &nbsp;
 
-![basic gym]( basic-gym.jpeg)
+![basic gym](assts/img/basic-gym.jpeg)
 
 &nbsp;
 
