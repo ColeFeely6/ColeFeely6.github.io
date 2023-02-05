@@ -127,7 +127,7 @@ And that was it for the main builds that summer! This gym has lasted me three ye
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-deadlifts.jpeg" title="concrete deadlifts" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-deadlifts.jpeg" title="concrete deadlifts" class="img-fluid " %}
     </div>
 </div>
 <div class="caption">
@@ -136,11 +136,3 @@ And that was it for the main builds that summer! This gym has lasted me three ye
 
 
 &nbsp;
-
-<a class="ripple" href="#!">
-  <img
-    alt="example"
-    class="img-fluid rounded"
-    src="assets/img/concrete-deadlifts.jpeg"
-  />
-</a>
