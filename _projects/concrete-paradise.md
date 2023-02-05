@@ -108,7 +108,7 @@ From there, most of the gym was set up! I ordered foam puzzle pieces off of amaz
         {% include figure.html path="assts/img/concrete-paradise/sus-trainer.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/gpulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/pulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/paralletes.jpeg" title="paralletes" class="img-fluid rounded z-depth-1" %}
