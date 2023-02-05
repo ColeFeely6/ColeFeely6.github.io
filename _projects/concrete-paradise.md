@@ -29,17 +29,13 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 
 &nbsp;
 
-<img src="assets/img/basic-gym.jpeg" class="img-fluid" alt="Responsive image">
-
-{% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid rounded z-depth-1" %}
-
 <div class="row">
     
-        {% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid" %}
     
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Basic Gym
 </div>
 
 
@@ -70,13 +66,13 @@ Then, the concrete was measured and mixed with water, then half of it was poured
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assts/img/mold-plate.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mold-plate.jpeg" title="mold plate" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cast-plate.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cast-plate.jpeg" title="cast plate" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cast-plate-2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cast-plate-2.jpeg" title="cast plate 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -121,7 +117,12 @@ From there, most of the gym was set up! I ordered foam puzzle pieces off of amaz
 ## Conclusion
 
 And that was it for the main builds that summer! This gym has lasted me three years and I really fell in love with the process of designing my own equipment and using it to better myself. In a time where there was so many contraints, I forged my own path. During that time, I started training here with my best friend. He had an uncle with some old one inch weight plates, a bar and an adjustable dumbbell which added to ensemble. At the start, we weren't super close but as we started training, which was the only thing we could do together during that time, we cultivated a deep friendship, one which is one of the most meaningful things that I have in my life. To be honest, I don't think training will ever be as much fun as when he and I were lifting these weights around in the garage and having a laugh. Not only did this project occupy my time during the lockdown, it helped me find my best friend. Those are some of my favorite memories and it's something I wish everyday I could have again. Because what is making a gym if you can't share it with someone you care about! Concrete Paradise was and will never be a gym for one person. There are two owners of Concrete Paradise- Concrete Never Dies!
+ 
 
+ 
+
+ 
+&nbsp;
 &nbsp;
 
 <div class="row">
