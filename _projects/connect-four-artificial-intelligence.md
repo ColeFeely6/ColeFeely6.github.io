@@ -29,7 +29,7 @@ Next I used the heuristic evaluation as a baseline, where the heuristic evaluati
 
 Finally, I implemented the Alpha-Beta Pruning algorithm, a more efficient and effective AI algorithm. 
 
-
+The link to the repository is posted above, you can also check it out over on the repository tab on this website!
 
 ### Images Used
 
