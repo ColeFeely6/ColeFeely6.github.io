@@ -9,7 +9,7 @@ category: fun
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-lg mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="first squat" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -59,6 +59,7 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/welding-2.jpg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
     
 
 &nbsp;
