@@ -53,9 +53,6 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
             {% include figure.html path="assets/img/concrete-paradise/cutting-reber-2.jpeg" title="first squat" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <div class="caption">
-        Concrete Paradise 3 years later...
-    </div>
 </div>
 
 &nbsp;
@@ -66,10 +63,10 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
         {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpeg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/welding.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/welding.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
     
