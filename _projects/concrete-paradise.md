@@ -7,7 +7,15 @@ importance: 1
 category: fun
 ---
 
-![first squat](assts/img/first-squat.JPG)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/first-squat.JPG" title="first squat" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
 
 
@@ -21,7 +29,15 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 
 &nbsp;
 
-![basic gym](assts/img/basic-gym.jpeg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 
 &nbsp;
 
@@ -40,9 +56,6 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
         {% include figure.html path="assets/img/welding-2.jpg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
     
-<div class="caption">
-    Cutting and welding the rebar
-</div>
 
 &nbsp;
 
@@ -61,9 +74,7 @@ Then, the concrete was measured and mixed with water, then half of it was poured
         {% include figure.html path="assets/img/cast-plate-2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Molds and production of the weights
-</div>
+
 
 &nbsp;
 
