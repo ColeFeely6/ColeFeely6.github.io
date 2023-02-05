@@ -31,6 +31,8 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 
 <img src="assets/img/basic-gym.jpeg" class="img-fluid" alt="Responsive image">
 
+{% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid rounded z-depth-1" %}
+
 <div class="row">
     
         {% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid rounded z-depth-1" %}
