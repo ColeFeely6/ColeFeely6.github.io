@@ -10,7 +10,7 @@ category: fun
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/concrete-paradise/finished-gym.jpg" title="first squat" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/concrete-paradise/finished-gym.jpeg" title="first squat" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="caption">
@@ -51,13 +51,13 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpeg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/welding-2.jpg" title="welding" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/welding-2.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cutting-plate.jpg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
     
@@ -70,7 +70,7 @@ Then, the concrete was measured and mixed with water, then half of it was poured
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/mold-plate.jpeg" title="mold plate" class="img-fluid" %}
+        {% include figure.html path="assets/img/concrete-paradise/cast-mold.jpeg" title="mold plate" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/concrete-paradise/weight-1.jpeg" title="cast plate" class="img-fluid rounded z-depth-1" %}
