@@ -10,7 +10,7 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/first-squat.JPG" title="first squat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/first-squat.jpg" title="first squat" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -88,9 +88,7 @@ To be honest, I don't remember much of the design or the creation of the bench. 
         {% include figure.html path="assets/img/bare-bench.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Bench without the yoga mat stapled on top
-</div>
+
 
 &nbsp;
 
@@ -111,9 +109,7 @@ From there, most of the gym was set up! I ordered foam puzzle pieces off of amaz
         {% include figure.html path="assets/img/paralletes.jpeg" title="paralletes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    The suspension trainer made with rope and excess PVC, the pulley system and the paralletes. 
-</div>
+
 
 &nbsp;
 
