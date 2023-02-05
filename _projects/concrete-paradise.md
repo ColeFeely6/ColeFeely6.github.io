@@ -30,9 +30,9 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 &nbsp;
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    
         {% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid rounded z-depth-1" %}
-    </div>
+    
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
