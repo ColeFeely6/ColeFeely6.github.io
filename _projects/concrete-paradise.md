@@ -60,13 +60,13 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpeg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpeg" title="cutting rebar" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/welding.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/welding.jpeg" title="welding" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
     
@@ -79,13 +79,13 @@ Then, the concrete was measured and mixed with water, then half of it was poured
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/cast-mold.jpeg" title="mold plate" class="img-fluid" %}
+        {% include figure.html path="assets/img/concrete-paradise/cast-mold.jpeg" title="mold plate" class="img-fluid" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/weight-1.jpeg" title="cast plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/weight-1.jpeg" title="cast plate" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/weight-2.jpeg" title="cast plate 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/weight-2.jpeg" title="cast plate 2" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -114,13 +114,13 @@ From there, most of the gym was set up! I ordered foam puzzle pieces off of amaz
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/sus-trainer.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/sus-trainer.jpeg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-paradise/pulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/pulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/paralletes.jpeg" title="paralletes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/paralletes.jpeg" title="paralletes" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
