@@ -17,6 +17,17 @@ category: work
 </div>
 
 
+Connect 4 Artificial Intelligence was a project in my Computer Science Artificial Intelligence class. This project was also a challenge, where every student's program was pinned against each other in a competition. The goal was to create an AI that would optimally play Connect-4 against you. 
+
+Our programs had to be able to play on boards of varying dimensions, from anything like a 4x4 board, a 8x8 board, 6x7, 8x4, 12x8 and so on. 
+
+The program first step was creating a baseline algorithm to find the next move. I used the Minimax Algorithm based on the utility. 
+
+Next I used the heuristic evaluation as a baseline, where the heuristic evaluation is invoked when the Minimax algorithm reaches a certain depth limit. This evaluation is considered the "brain" of this Connect-4 bot. The function returns an estimated utility function (either positive or negative) for any game state. 
+
+Finally, I implemented the Alpha-Beta Pruning algorithm, a more efficient and effective AI algorithm. 
+
+
 
 ### Images Used
 
