@@ -136,3 +136,11 @@ And that was it for the main builds that summer! This gym has lasted me three ye
 
 
 &nbsp;
+
+<a class="ripple" href="#!">
+  <img
+    alt="example"
+    class="img-fluid rounded"
+    src="assets/img/concrete-deadlifts.jpeg"
+  />
+</a>
