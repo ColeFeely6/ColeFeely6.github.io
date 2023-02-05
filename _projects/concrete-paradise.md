@@ -14,7 +14,7 @@ category: fun
         </div>
     </div>
     <div class="caption">
-        This image can also have a caption. It's like magic.
+        Concrete Paradise 3 years later...
     </div>
 </div>
 
@@ -35,7 +35,7 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
             {% include figure.html path="assets/img/basic-gym-2.jpeg" title="basic gym" class="img-fluid" %} 
     </div>
     <div class="caption">
-        Basic Gym
+        The basic equipment I could gather during the wild west that was fitness equipment at the time
     </div>
 </div>
 
@@ -46,6 +46,18 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 
 From Home Depot, I got a large bucket with a base that seemed the circumference of an actual 45 lb weight plate, along with steel rebar, bags of concrete mix and pvc piping. I then drilled two peices of 4x4 under the bottom of the bucket so that the bucket was elevated off of the ground. Then, I drilled a whole directly in the center of the bucket so that some PVC could fit through. Before inserting the PVC, I drilled small divots into the pipe for extra reinforcement so that concrete would form into parts of the pipe. From there, I cleaned the rust off the rebar, cut it into smaller sections and welded four 'sticks' of rebar into a tic-tac-toe shape. 
 
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/concrete-paradise/cutting-reber-2.jpeg" title="first squat" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+    <div class="caption">
+        Concrete Paradise 3 years later...
+    </div>
+</div>
+
 &nbsp;
 
 
@@ -54,10 +66,10 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
         {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpeg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/welding-2.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/welding.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/cutting-plate.jpeg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
     
@@ -105,7 +117,7 @@ From there, most of the gym was set up! I ordered foam puzzle pieces off of amaz
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assts/img/concrete-paradise/sus-trainer.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/sus-trainer.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/concrete-paradise/pulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" %}
@@ -131,7 +143,7 @@ And that was it for the main builds that summer! This gym has lasted me three ye
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/concrete-deadlifts.jpeg" title="concrete deadlifts" class="img-fluid " %}
+        {% include figure.html path="assets/img/concrete-paradise/deadlifts.jpeg" title="concrete deadlifts" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
