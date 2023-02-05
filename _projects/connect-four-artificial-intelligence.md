@@ -17,6 +17,8 @@ category: work
 </div>
 
 
+<a href="https://github.com/ColeFeely6/Connect-Four-Artificial-Intelligence">GitHub Repository</a>
+
 Connect 4 Artificial Intelligence was a project in my Computer Science Artificial Intelligence class. This project was also a challenge, where every student's program was pinned against each other in a competition. The goal was to create an AI that would optimally play Connect-4 against you. 
 
 Our programs had to be able to play on boards of varying dimensions, from anything like a 4x4 board, a 8x8 board, 6x7, 8x4, 12x8 and so on. 
