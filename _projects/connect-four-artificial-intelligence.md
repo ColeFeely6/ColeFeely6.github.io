@@ -35,6 +35,6 @@ The link to the repository is posted above, you can also check it out over on th
 
 Connect-Four Image: https://m.media-amazon.com/images/I/81ZNRHJ+cIL.jpg
 
-AI Image:https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960
+AI Image: https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960
 
 
