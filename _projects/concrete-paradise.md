@@ -32,7 +32,7 @@ When prices weren't crazy, I snagged the only barbell I could find online, a che
 
 <div class="container">
     <div class="row">   
-            {% include figure.html path="assets/img/basic-gym.jpeg" title="basic gym" class="img-fluid" %} 
+            {% include figure.html path="assets/img/basic-gym-2.jpeg" title="basic gym" class="img-fluid" %} 
     </div>
     <div class="caption">
         Basic Gym
