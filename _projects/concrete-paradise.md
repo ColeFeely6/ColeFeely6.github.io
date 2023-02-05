@@ -10,7 +10,7 @@ category: fun
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/1.jpg" title="first squat" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/concrete-paradise/finished-gym.jpg" title="first squat" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="caption">
@@ -51,10 +51,13 @@ From Home Depot, I got a large bucket with a base that seemed the circumference 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assts/img/cutting-rebar.jpg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/cutting-rebar.jpg" title="cutting rebar" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/welding-2.jpg" title="welding" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cutting-plate.jpg" title="trimming weight plate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
     
@@ -67,13 +70,13 @@ Then, the concrete was measured and mixed with water, then half of it was poured
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mold-plate.jpeg" title="mold plate" class="img-fluid" %}
+        {% include figure.html path="assets/img/concrete-paradise/mold-plate.jpeg" title="mold plate" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cast-plate.jpeg" title="cast plate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/weight-1.jpeg" title="cast plate" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cast-plate-2.jpeg" title="cast plate 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/weight-2.jpeg" title="cast plate 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -87,7 +90,7 @@ To be honest, I don't remember much of the design or the creation of the bench. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bare-bench.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/bare-bench.jpeg" title="welding" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -102,10 +105,10 @@ From there, most of the gym was set up! I ordered foam puzzle pieces off of amaz
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assts/img/sus-trainer-1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assts/img/concrete-paradise/sus-trainer.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/pulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/concrete-paradise/pulley.jpeg" title="pulley" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/paralletes.jpeg" title="paralletes" class="img-fluid rounded z-depth-1" %}
