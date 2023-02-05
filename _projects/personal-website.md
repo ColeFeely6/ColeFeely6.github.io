@@ -15,14 +15,12 @@ category: fun
     </div>
 </div>
 
-
-
 I've been looking to have my own place to display my projects and my writing for quite a while! The idea first started over Winter Break in 2022 after my first semester of Junior Year. At that point, I felt as though I was developing a negative relationship with coding after some very demanding semesters and experiencing A LOT of burnout. After talking to an experienced software engineer, he suggested that I undertake some passion projects to revamp my interest in coding. After that discussion, I worked everyday over break on creating a Hugo static sight and finally got one up and running but it was never perfect enough to share or post on. I left it untouched for about a year but over the course of that year, I found myself constantly writing about my thoughts regarding my training or thinkings surrounding engineering and I've been itching to have a medium to share those writings to a small audience, to those who stumble across my blog. At the same time, I found that merely writing a few lines about my projects on a section of a resume really didn't give the stage or life my projects could take on- I wanted some of my hard work and passion projects to have a home and live on after they've been finished. 
 
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/github-jekyll.jpeg" title="GH and Jekyll" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/github-jekyll.jpeg" title="GH and Jekyll" class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
     </div>
 </div>
