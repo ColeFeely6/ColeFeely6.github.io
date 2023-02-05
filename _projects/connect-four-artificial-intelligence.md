@@ -21,6 +21,7 @@ category: work
 ### Images Used
 
 Connect-Four Image: https://m.media-amazon.com/images/I/81ZNRHJ+cIL.jpg
+
 AI Image:https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960
- 
+
 
