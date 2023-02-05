@@ -144,7 +144,7 @@ And that was it for the main builds that summer! This gym has lasted me three ye
     </div>
 </div>
 <div class="caption">
-    An early deadlifting session at the concrete Paradise
+    An early deadlifting session at the Concrete Paradise
 </div>
 
 
