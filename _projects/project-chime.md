@@ -7,6 +7,11 @@ importance: 1
 category: fun
 ---
 
+<a href="https://github.com/ColeFeely6/Project-Chime">GitHub Repository</a>
+
+<a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Full Report</a>
+
+
 Members: Cole Feely, Aidan Murray, Owen Lheron and Sashank Rao
 
 Start Date: Sept. 27, 2022
@@ -58,8 +63,10 @@ Signal Deconstruction: Sash Rao
             {% include figure.html path="assets/img/chime-block-diagram.jpeg" title="chime block diagram" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <div class="caption">
-        Our Poster for the Project
-    </div>
 </div>
 
+## Results
+
+Check out our results in our Final Academic Paper:
+
+<a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Full Report</a>
