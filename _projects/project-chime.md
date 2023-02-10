@@ -4,7 +4,7 @@ title: Project Chime
 description: An Audio Data Transfer System Over Commodity Embedded Devices
 img: assets/img/wave2.png
 importance: 1
-category: fun
+category: work
 ---
 
 ## !!! Important Links !!!
