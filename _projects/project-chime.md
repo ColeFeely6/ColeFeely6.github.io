@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-## !!! Important Links !!!
+## IMPORTANT LINKS
 
 <a href="https://github.com/ColeFeely6/Project-Chime">GitHub Repository</a>
 
