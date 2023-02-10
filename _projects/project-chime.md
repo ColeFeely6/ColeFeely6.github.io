@@ -7,10 +7,14 @@ importance: 1
 category: fun
 ---
 
+## !!! Important Links !!!
+
 <a href="https://github.com/ColeFeely6/Project-Chime">GitHub Repository</a>
 
 <a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Full Report</a>
 
+
+## Project Context
 
 Members: Cole Feely, Aidan Murray, Owen Lheron and Sashank Rao
 
@@ -18,6 +22,7 @@ Start Date: Sept. 27, 2022
 
 Due Date: December 8, 2022
 
+## Poster
 
 <div class="container">
     <div class="row">
