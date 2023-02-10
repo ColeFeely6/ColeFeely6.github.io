@@ -2,7 +2,7 @@
 layout: page
 title: Concrete Paradise 
 description: A DIY gym project started over the Pandemic
-img: assets/img/final-look.jpeg
+img: assets/img/concrete-paradise/finished-gym.jpeg
 importance: 1
 category: fun
 ---
