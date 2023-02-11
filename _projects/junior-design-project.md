@@ -23,7 +23,7 @@ Course Number: ECE 304
 ### Important Links
 
 <a href="https://youtu.be/32ZztrYxNW0">YouTube Demonstration</a>
-
+<a href="https://github.com/ColeFeely6/Junior-Design-Project">GitHub</a>
 
 ## Introduction
 
@@ -61,6 +61,16 @@ the desk
 the current patron
 6. The desk attendant display will also show the minimum two distances of the patrons
 7. The build must be powered by a 9V Battery
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/jdp3.jpeg" title="jdp3" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
 
 ## Design Changes
 
