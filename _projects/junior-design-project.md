@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junior Design Project
-description: 
+description: A Social Distancing Monitoring System
 img: assets/img/jdp1.jpeg
 importance: 1
 category: work
@@ -9,8 +9,10 @@ category: work
 
 ## Social Distancing Monitoring System: Junior Design Project
 
-Date Completed: May 9, 2022
-Course Number: ECE 304
+- Date Completed: May 9, 2022
+
+
+- Course Number: ECE 304
 
 <div class="container">
     <div class="row">
