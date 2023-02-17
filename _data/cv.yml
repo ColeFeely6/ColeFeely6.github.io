@@ -64,6 +64,14 @@
         - Team member of the student-organized robotics team that competes in the NASA Lunar Robotics competition; building a fully autonomous robot that can search through sand for intended objects and return to base
         - Lead designer of the robot’s battery management system; designing the distribution of power from LiPo batteries to the various motors, microcontrollers, sensors and servos governed by electronics to prevent fire hazards
 
+    - title: College of Engineering Peer Mentor 
+      institution: University of Massachusetts Amherst
+      year: Jan. 2021- PRES
+      value: Amherst, MA
+      description: 
+        - Apart of the COE's peer mentor program where I give undergraduate students advice on both their classes and adjusting to College life
+        - We also organize events and work with other groups to raise awareness of resources available to students
+
 
 - title: Projects
   type: time_table
@@ -102,6 +110,13 @@
       year: Spr 2022
       description: 
         - A program that optimally solves the tile puzzle game with deep learning algorithms learned in CS 383
+    
+    - title: Independent Python Projects
+      year: Sum 2020
+      description: 
+        - Python Projects started during the first Summer over the pandemic after my first college programming course for fun
+        - Created a Python Program that sent out emails to all the Universities and Colleges in the United States asking for a free T-shirt
+        - Created a Python Program that tracked data from certain Amazon Products to track changes in price and more
 
 - title: Relevant Courses
   type: nested_list
