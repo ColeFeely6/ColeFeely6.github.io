@@ -7,7 +7,6 @@ importance: 1
 category: work
 ---
 
-
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">

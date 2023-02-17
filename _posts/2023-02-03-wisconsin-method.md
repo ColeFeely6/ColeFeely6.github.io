@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Wisconsin Method Review
-date:   2023-02-3 16:40:16
+date:   2023-02-03 16:40:16
 description: How I put 50 lbs on my Split Squat, Jefferson Deadlift and 20 lbs on my Press in two weeks
 tags: training
 categories: training
