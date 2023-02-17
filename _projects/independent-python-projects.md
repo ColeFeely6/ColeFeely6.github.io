@@ -19,13 +19,6 @@ category: fun
 
 # The Projects
 
-<div class="container">
-    <div class="row">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/excel-python.webp" title="excel python" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </div>
-</div>
 
 
 <a href="https://github.com/ColeFeely6/Independent-Python-Projects">GitHub Repository</a>
@@ -35,6 +28,14 @@ category: fun
 <a href="https://github.com/ColeFeely6/Independent-Python-Projects/tree/main/college-free-tshirt-emailer">Free T-shirt Emailer Folder</a>
 
 As you may know from my digital independence post, I am not on TikTok, but in the summer of 2020, my sister was. Apparently there was a trend going around where kids were asking colleges for free t-shirts, saying they were a student looking to apply and wanted to rep the school. I found this very interesting, so I decided to use my introduction to programming skills to use. I would use a python script to take data from a spreadsheet from all schools in the united states and the emails of all the recruitment offices and email them inquiring about a free t-shirt. Out of 2,000 schools, surely a few would send one! And indeed they did, I received a lot of denials but also a 5 free t-shirts! It would be interesting to perform this experiment again now that the trend has died down. 
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/excel-python.webp" title="excel python" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
 
 First thing was to find a spreadsheet online of the college names and their recruiting office's email address. Then, the first scipt was made to parse through that spreadsheet and create two arrays: one for the names of the schools 'names' and one for the emails 'emails'. This file ws called speadsheet_python.py:
 
