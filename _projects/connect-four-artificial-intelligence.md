@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Connect Four Artificial Intelligence 
+title: Connect Four AI
 description: A program that will optimally play variations of a Connect Four game against you using AI algorithms learned in CS 383
 img: assets/img/connect-4-1.webp
 importance: 2
