@@ -3,7 +3,7 @@ layout: page
 title: Amazon Robot  
 description: Python Projects I made on my own to learn more about programming and for fun early on in my college career 
 img: assets/img/api.jpeg
-importance: 1
+importance: 4
 category: fun
 ---
 

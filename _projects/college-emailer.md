@@ -3,7 +3,7 @@ layout: page
 title: College Free T-Shirt Emailer  
 description: Python Projects I made on my own to learn more about programming and for fun early on in my college career 
 img: assets/img/excel-python.webp
-importance: 1
+importance: 3
 category: fun
 ---
 

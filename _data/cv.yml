@@ -167,6 +167,7 @@
     - title: Software and Environments
       items: 
         - Linux OS
+        - AutoDesk Fusion360
         - Jekyll
         - Ember.js
         - Node.js
@@ -199,4 +200,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Weightlifting, Songwriting, Music, Guitar, Raspberry Pi Projects, Cooking, Chess, Wellness, Boxing, Running
+    - Weightlifting, Songwriting, Music, Guitar, Reading, Raspberry Pi Projects, Cooking, Chess, Wellness, Boxing, Running
