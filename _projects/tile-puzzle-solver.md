@@ -6,6 +6,13 @@ img: assets/img/tile-puzzle.webp
 importance: 4
 category: work
 ---
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/coding2.png" title="website" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
 
 
 <a href="https://github.com/ColeFeely6/Tile-Puzzle-Solver">GitHub Repository</a>
