@@ -84,7 +84,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 &nbsp;
 
-# :one: Freshman Year
+# :computer: Freshman Year
 
 &nbsp;
 ## Fall (Semester 1)
@@ -165,7 +165,7 @@ Above outlines which classes you will take through your time with the major. As 
 &nbsp;
 &nbsp;
 
-# :two: Sophomore Year 
+# :microscope: Sophomore Year 
 
 This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
 
@@ -251,7 +251,7 @@ Literally no tips, just bite the bullet, this class is god awful
 &nbsp;
 
 
-# :three: Junior Year
+# :floppy_disk: Junior Year
 
 &nbsp;
 
