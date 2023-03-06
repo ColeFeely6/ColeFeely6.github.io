@@ -82,12 +82,12 @@ Yes I now, before your freshman year, you shouldn't worry about school and focus
 
 Above outlines which classes you will take through your time with the major. As you can see, in Comp E, the first year is a lot of general classes, but then Second year, you start taking all ECE classes. ECE is the only engineering major that starts taking pure Engineering classes this early, other engineering majors continue to take more math and science classes until junior year. You can start picking your classes Junior Year second semester, but until then, you only get to pick your Gen Ed classes. 
 
+&nbsp;
 
 # Freshman Year
 
 &nbsp;
-### Fall 
-&nbsp;
+## Fall 
 #### Engineering 112
 - An introduction to ECE which professors try to show you the different things you can do in the field 
 - Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
@@ -121,16 +121,14 @@ Above outlines which classes you will take through your time with the major. As 
 - Pick one you need, go on rate my professor and make sure they have 
 &nbsp;
 
-### Freshman Winter Break Tips
+## Freshman Winter Break Tips
 - Over break, make sure to watch a bunch of intro to python videos to get an understanding of what's going on. You should get yourself to be able to program a game. 
 
 - If you're bad at physics, watch some circuit videos on youtube. 
 
 - Watch some boolean logic videos and solve some problems. 
 
-### Spring 
-&nbsp;
-
+## Spring 
 #### ECE 122
 - This is a python programming course
 - If you've never programmed before, this class can seem very fast paced
@@ -159,7 +157,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 &nbsp;
 
-### Rising Sophomore Summer Break Tips
+## Rising Sophomore Summer Break Tips
 
 - The Freshman year summer, rarely do peopl get internships so don't feel bad if you don't have one, companies don't really look at you for internships until you are a Junior
 - What I recommend is get a summer job and work on projects that you can put on your resume  and/or used UMass's LinkedIn learning resources to get certificates. 
@@ -173,11 +171,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
 
-&nbsp;
-
-### Fall
-
-
+## Fall
 #### ECE 201
 - This is a math course for ECE students
 - Not bad, picks up at the end
@@ -216,11 +210,11 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 #### Gen Ed
 - Take another Gen Ed, make sure to go onto rate my professor and find the best one with a decent class schedule
 
-### Sophomore Winter Break Tips
+## Sophomore Winter Break Tips
 - Honestly this break, just do nothing and just try and recooperate/ mentally prepare yourself for the next semester
 - Get your resume ready
 
-### Spring
+## Spring
 This is considered the hardest semester by many. This is mainly because CS 250 is the hardest CS class, let alone ECE. That's a lot of work but 213 and 231 sneaks up on you with their assignments. 
 
 
@@ -250,7 +244,7 @@ Literally no tips, just bite the bullet, this class is god awful
 - Work with a group
 - You're going to be that weird carrying around a vase of electronics all day :/
 
-### Rising Junior Summer Break Tips 
+## Rising Junior Summer Break Tips 
 - Again, no one expects you to have an internship at this point. If you do, you probably networked through your parents or family friends, which isn't a bad thing!
 - Again, get a job and in your spare time, you need to study the crap out of interview questions that you would be asked and  preparing your interview skills
 - For Computer Engineering or Sowftware jobs, read cracking the code. For EE, there are definitely some resources out there to study with
@@ -325,7 +319,7 @@ You will be looking for an internship this semester and you will be busting your
 
 &nbsp;
 
-<h2 style="color:light-red">You now enter the territory where you pick your own classes and take a design project each semester</h2>
+<h3 style="color:red">You now enter the territory where you pick your own classes and take a design project each semester</h3>
 
 # Design Projects
 #### Junior Design Project
@@ -345,11 +339,9 @@ You will be looking for an internship this semester and you will be busting your
 
 
 # Electives: 
-:bulb: **key:** * indicates I heard about it but didn't take myself 
+:bulb: **Note:** A * indicates I heard about it but didn't take myself 
 
 ## Easy: 
-&nbsp;
-
 #### ECE 325
 - Second easiest class in ECE
 - Computer Networking (how computers across the world communicate)
@@ -380,9 +372,6 @@ You will be looking for an internship this semester and you will be busting your
 
 
 ## Medium:
-&nbsp;
-
-
 #### ECE 332
 - Only projects
 - 1 lecture a month that is 3 hours
@@ -424,9 +413,6 @@ You will be looking for an internship this semester and you will be busting your
 
 
 ## Hard: 
-&nbsp;
-
-
 #### ECE 588 
 - VLSI
 - One of the hardest and most infamously brutal courses 
