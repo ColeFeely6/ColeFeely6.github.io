@@ -137,6 +137,7 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - Not bad, picks up at the end
 - Highly recommend working with a group of people
 - To study, again know the shit out of the homework, discussion and practice exam questions. Be able to do them in your sleep
+
 #### ECE 202
 - I was a tutor in this class
 - This is Matlab and Excel work
@@ -150,6 +151,7 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - Go to tutoring as frequently as possible, they literally have the answer key
 - DO NOT PROCRASTIONATE
     - This class will fail you for procrastinating
+
 #### ECE 241 
 - This is advanced programming where you learn everything you will ever need to be a computer scientist
 - So if you are interested in software, PAY ATTENTION IN THIS CLASS AND TAKE BEAUTIFUL NOTES SO YOU CAN COME BACK LATER AND STUDY FOR INTERVIEWS
@@ -157,6 +159,7 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - Work on projects with a group
 - Go to office hours when stuck
 - Use the bill Leonard method, work on this a little everyday until you get stuck, then move onto something else
+
 #### ECE 210
 - A lot of people struggle in this class and complain a lot. They complain because they feel like there is a big difference between lecture and assignments. Yes, this is on purpose. Like how 241 is literally everything you need to get a job in Software, this course is everything you need to get a job in EE. There's a lot to learn and like how 122 changed your brain, this class will too. 
 - Pay attention in class and take notes
