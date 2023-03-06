@@ -20,6 +20,11 @@ categories: computers
 - [Preface Points](#preface-points)
 - [Before Freshman Year](#before-freshman-year)
 - [Curriculum](#curriculum)
+- [Freshman Year](#freshman-year)
+- [Sophomore Year](#sophomore-year)
+- [Junior Year](#junior-year)
+- [Design Projects](#design-projects)
+- [Electives](#electives)
 
 
 
@@ -117,12 +122,12 @@ Above outlines which classes you will take through your time with the major. As 
 - Pick one you need, go on rate my professor and make sure they have 
 &nbsp;
 
-## Winter Break Tips
-Over break, make sure to watch a bunch of intro to python videos to get an understanding of what's going on. You should get yourself to be able to program a game. 
+## Freshman Winter Break Tips
+- Over break, make sure to watch a bunch of intro to python videos to get an understanding of what's going on. You should get yourself to be able to program a game. 
 
-If you're bad at physics, watch some circuit videos on youtube. 
+- If you're bad at physics, watch some circuit videos on youtube. 
 
-Watch some boolean logic videos and solve some problems. 
+- Watch some boolean logic videos and solve some problems. 
 
 ### Spring 
 
@@ -150,8 +155,17 @@ Watch some boolean logic videos and solve some problems.
 - In my opinion, better than 131
 - Same Strategy
 
-#### Take an easy Gen Ed here or take a class for your minor
+#### Gen Ed
+- Take an easy Gen Ed here or take a class for your minor
 
+&nbsp;
+
+## Rising Sophomore Summer Break Tips
+
+- The Freshman year summer, rarely do peopl get internships so don't feel bad if you don't have one, companies don't really look at you for internships until you are a Junior
+- What I recommend is get a summer job and work on projects that you can put on your resume  and/or used UMass's LinkedIn learning resources to get certificates. 
+
+&nbsp;
 
 # Sophomore Year 
 This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
@@ -198,7 +212,9 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 #### Gen Ed
 - Take another Gen Ed, make sure to go onto rate my professor and find the best one with a decent class schedule
 
-
+## Sophomore Winter Break Tips
+- Honestly this break, just do nothing and just try and recooperate/ mentally prepare yourself for the next semester
+- Get your resume ready
 
 ### Spring
 This is considered the hardest semester by many. This is mainly because CS 250 is the hardest CS class, let alone ECE. That's a lot of work but 213 and 231 sneaks up on you with their assignments. 
@@ -230,8 +246,19 @@ Literally no tips, just bite the bullet, this class is god awful
 - Work with a group
 - You're going to be that weird carrying around a vase of electronics all day :/
 
+## Rising Junior Summer Break Tips 
+- Again, no one expects you to have an internship at this point. If you do, you probably networked through your parents or family friends, which isn't a bad thing!
+- Again, get a job and in your spare time, you need to study the crap out of interview questions that you would be asked and  preparing your interview skills
+- For Computer Engineering or Sowftware jobs, read cracking the code. For EE, there are definitely some resources out there to study with
+- Junior Year Fall is when you are going to be busting your ass looking for an internship and you won't have any spare time to really study hard for those interviews, so get it out of the way now!
+
+
 # Junior Year
 ### Fall
+
+You will be looking for an internship this semester and you will be busting your ass doing so. I recommend going to the Engineering Career Center and getting your resume perfected and practicing your interview skills with mock interviews
+
+
 #### ECE 322
 - This is a linux, C and bash class
 - One on the hardest if not the hardest class
@@ -280,7 +307,11 @@ Literally no tips, just bite the bullet, this class is god awful
 - My issue is that they only really talk about what people do research in
 - Most presenters are boring as hell 
 
-# Requirements
+
+## Junior Year Winter Break Tips
+- You should be continuing your Summer internhsip search here if you have not found one already. Go all out and pull all the strings you have. 
+
+# Design Projects
 #### Junior Design Project
 - Second Semester Junior Year
 - Basically 231 but you write reports like you would for Senior Design Project and things get very low level
