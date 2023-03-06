@@ -14,6 +14,13 @@ categories: computers
     </div>
 </div>
 
+#### Table of Contents
+
+- [Introduction](#introduction)
+- [Preface Points](#preface-points)
+- [Before Freshman Year](#before-freshman-year)
+- [Curriculum](#curriculum)
+
 
 
 # Introduction
