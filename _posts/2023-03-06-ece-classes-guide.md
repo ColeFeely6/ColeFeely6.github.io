@@ -74,26 +74,26 @@ Above outlines which classes you will take through your time with the major. As 
 # Freshman Year
 ### Fall 
 #### Engineering 112
-	- An introduction to ECE which professors try to show you the different things you can do in the field 
-	- Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
-	- The homeworks will be hard on purpose and really long, I suggest going to TA office hours and finding other kids to collaborate with
+- An introduction to ECE which professors try to show you the different things you can do in the field 
+- Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
+- The homeworks will be hard on purpose and really long, I suggest going to TA office hours and finding other kids to collaborate with
 #### Physics 151
-	- This is a huge weed out class
-	- Kids from all sorts of majors are here and its going to be a challenge to complete
-	- The homeworks are all online and there are two three exams. The exams will be hard, some kids will find it very easy but don't worry, later on you'll all be on the same level with your courses. The exams are all multiple choice which is not a good thing
-	- I recommend studying a week in advance, go over the practice exam multiple times, go over homework questions, go to office hours and find a study group to go over the practice exam with
+- This is a huge weed out class
+- Kids from all sorts of majors are here and its going to be a challenge to complete
+- The homeworks are all online and there are two three exams. The exams will be hard, some kids will find it very easy but don't worry, later on you'll all be on the same level with your courses. The exams are all multiple choice which is not a good thing
+- I recommend studying a week in advance, go over the practice exam multiple times, go over homework questions, go to office hours and find a study group to go over the practice exam with
 #### Math 131
-	- Another major weed out class
-	- Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep. 
-	- Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of you having a white board and all doing the problem at once then reviewing together
-	- I felt guilty for some reason with this strategy, it really works for these types of classes
+- Another major weed out class
+- Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep. 
+- Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of you having a white board and all doing the problem at once then reviewing together
+- I felt guilty for some reason with this strategy, it really works for these types of classes
 #### English Writing 112
-	- A grad student teaches you basic English. You should just write well and stay up to date with the course assignments. 
-	- For a cheat code, just go to their office hours and introduce yourself, get them to review your rough draft. 
+- A grad student teaches you basic English. You should just write well and stay up to date with the course assignments. 
+- For a cheat code, just go to their office hours and introduce yourself, get them to review your rough draft. 
 #### Freshman Year Seminar 
-	- Literally just a class for you to meet people. Be friendly and make new friends
+- Literally just a class for you to meet people. Be friendly and make new friends
 #### Gen Ed
-	- Pick one you need, go on rate my professor and make sure they have 
+- Pick one you need, go on rate my professor and make sure they have 
 
 ## Winter Break Tips
 Over break, make sure to watch a bunch of intro to python videos to get an understanding of what's going on. You should get yourself to be able to program a game. 
@@ -104,27 +104,27 @@ Watch some boolean logic videos and solve some problems.
 
 ### Spring 
 #### ECE 122
-	- This is a python programming course
-	- If you've never programmed before, this class can seem very fast paced
-	- Take notes by hand, believe me its easy to just type out your code from class and hit compile but you really need to go line by line and understand what everything is doing later on
-	- Practice writing out your code on paper before exams, try to debug by hand
-	- Go to office hours if you are running into errors
-	- Try to debug your friends code
-	- Programming requires a brain and this class you are constructing this new brain
+- This is a python programming course
+- If you've never programmed before, this class can seem very fast paced
+- Take notes by hand, believe me its easy to just type out your code from class and hit compile but you really need to go line by line and understand what everything is doing later on
+- Practice writing out your code on paper before exams, try to debug by hand
+- Go to office hours if you are running into errors
+- Try to debug your friends code
+- Programming requires a brain and this class you are constructing this new brain
 
 #### ECE 124
-	- I am a TA in this class
-	- This class starts easy and it seems like simple addition and subtraction but the last half of the year picks up like crazy
-	- You are really going to learn through the homeworks and discussion questions, so try and follow along in class and for exams, make sure you know the crap out of every homework, discussion and practice exam questions
-	- Go to office hours
+- I am a TA in this class
+- This class starts easy and it seems like simple addition and subtraction but the last half of the year picks up like crazy
+- You are really going to learn through the homeworks and discussion questions, so try and follow along in class and for exams, make sure you know the crap out of every homework, discussion and practice exam questions
+- Go to office hours
 
 #### Physics 152
-	- Same as Physics 151 tips
-	- This class is focused on circuits, electricity and magnetism 
+- Same as Physics 151 tips
+- This class is focused on circuits, electricity and magnetism 
 
 #### Calculus 132
-	- In my opinion, better than 131
-	- Same Strategy
+- In my opinion, better than 131
+- Same Strategy
 
 #### Take an easy Gen Ed here or take a class for your minor
 
@@ -133,36 +133,37 @@ Watch some boolean logic videos and solve some problems.
 This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
 ### Fall
 #### ECE 201
-	- This is a math course for ECE students
-	- Not bad, picks up at the end
-	- Highly recommend working with a group of people
-	- To study, again know the shit out of the homework, discussion and practice exam questions. Be able to do them in your sleep
+- This is a math course for ECE students
+- Not bad, picks up at the end
+- Highly recommend working with a group of people
+- To study, again know the shit out of the homework, discussion and practice exam questions. Be able to do them in your sleep
 #### ECE 202
-	- I was a tutor in this class
-	- This is Matlab and Excel work
-	- Bill Leonard has a philosophy and really hammers it here
-		○ His philosophy is called mastery and its basically doing an assignment over and over again until you get it complete right, no errors
-		○ Essentially, his homeworks aren't hard, but you have to get it perfect and you will submit it about 7+ times until it's perfect
-	- This class is a lot of work but the assignments are easy
-	- My strategy was to do an assignment everyday and submit it, then resubmit assignments you got feedback on everyday
-	- If you remember that children's game called something like clear the yard where two teams try to throw objects into the other teams side and the team with the least amount of objects at the end wins? This class is basically that, you are just going to work on assignments every time you get feedback and submit right away
-	- This class is set up for you to succeed. If you get your bonus points by getting things in on time, you can get an A and be done with the class early
-	- Go to tutoring as frequently as possible, they literally have the answer key
-	- DO NOT PROCRASTIONATE
-		○ This class will fail you for procrastinating
+- I was a tutor in this class
+- This is Matlab and Excel work
+- Bill Leonard has a philosophy and really hammers it here
+	-  His philosophy is called mastery and its basically doing an assignment over and over again until you get it complete right, no errors
+	-  Essentially, his homeworks aren't hard, but you have to get it perfect and you will submit it about 7+ times until it's perfect
+- This class is a lot of work but the assignments are easy
+- My strategy was to do an assignment everyday and submit it, then resubmit assignments you got feedback on everyday
+- If you remember that children's game called something like clear the yard where two teams try to throw objects into the other teams side and the team with the least amount of objects at the end wins? This class is basically that, you are just going to work on assignments every time you get feedback and submit right away
+- This class is set up for you to succeed. If you get your bonus points by getting things in on time, you can get an A and be done with the class early
+- Go to tutoring as frequently as possible, they literally have the answer key
+- DO NOT PROCRASTIONATE
+    - This class will fail you for procrastinating
 #### ECE 241 
-	- This is advanced programming where you learn everything you will ever need to be a computer scientist
-	- So if you are interested in software, PAY ATTENTION IN THIS CLASS AND TAKE BEAUTIFUL NOTES SO YOU CAN COME BACK LATER AND STUDY FOR INTERVIEWS
-	- Projects are hard, exams are exactly like the practice exams
-	- Work on projects with a group
-	- Go to office hours when stuck
-	- Use the bill Leonard method, work on this a little everyday until you get stuck, then move onto something else
+- This is advanced programming where you learn everything you will ever need to be a computer scientist
+- So if you are interested in software, PAY ATTENTION IN THIS CLASS AND TAKE BEAUTIFUL NOTES SO YOU CAN COME BACK LATER AND STUDY FOR INTERVIEWS
+- Projects are hard, exams are exactly like the practice exams
+- Work on projects with a group
+- Go to office hours when stuck
+- Use the bill Leonard method, work on this a little everyday until you get stuck, then move onto something else
 #### ECE 210
-	- A lot of people struggle in this class and complain a lot. They complain because they feel like there is a big difference between lecture and assignments. Yes, this is on purpose. Like how 241 is literally everything you need to get a job in Software, this course is everything you need to get a job in EE. There's a lot to learn and like how 122 changed your brain, this class will too. 
-	- Pay attention in class and take notes
-	- Use different colors for your circuits
-	- Practice the shit out of practice exams and homeworks, know how everything works
-	- There are a few rules like KCL and KVL that will let you solve any circuit. Really practice that rule and you can solve all the problems. 
+- A lot of people struggle in this class and complain a lot. They complain because they feel like there is a big difference between lecture and assignments. Yes, this is on purpose. Like how 241 is literally everything you need to get a job in Software, this course is everything you need to get a job in EE. There's a lot to learn and like how 122 changed your brain, this class will too. 
+- Pay attention in class and take notes
+- Use different colors for your circuits
+- Practice the shit out of practice exams and homeworks, know how everything works
+- There are a few rules like KCL and KVL that will let you solve any circuit. Really practice that rule and you can solve all the problems. 
+
 #### Gen Ed
 
 ### Spring
@@ -174,92 +175,92 @@ Math course in CS
 Literally no tips, just bite the bullet, this class is god awful 
 
 #### ECE 213 
-	- This class you learn about signals and waves
-	- Short exams, get ready to perform questions VERY quickly
-	- No new tips really, strategy is show up to lecture, and try your best to pay attention. If notes are provided, use them for your homeworks and studying
-	- Start studying as early as possible
-	- This semester was so busy, I would study a day before and spend 24 hours on just this class, do not recommend
+- This class you learn about signals and waves
+- Short exams, get ready to perform questions VERY quickly
+- No new tips really, strategy is show up to lecture, and try your best to pay attention. If notes are provided, use them for your homeworks and studying
+- Start studying as early as possible
+- This semester was so busy, I would study a day before and spend 24 hours on just this class, do not recommend
 
 #### ECE 214
-	- Probability and Stats
-	- Most fair and easy class ever
-	- Literally no excuse for not getting an A, they put this here because your other courses are ass
+- Probability and Stats
+- Most fair and easy class ever
+- Literally no excuse for not getting an A, they put this here because your other courses are ass
 	
 #### ECE 231
-	- Cool class, you learn to work with MCUs and building computer systems
-	- Vital for your JDP and SDP
-	- Completely project based with a final
-	- Learn C here
-		○ PAY ATTENTION TO C
-		○ The next semester you have a brutal C class and being familiar with C will be super helpful
-	- Work with a group
-	- You're going to be that weird carrying around a vase of electronics all day :/
+- Cool class, you learn to work with MCUs and building computer systems
+- Vital for your JDP and SDP
+- Completely project based with a final
+- Learn C here
+    - PAY ATTENTION TO C
+	- The next semester you have a brutal C class and being familiar with C will be super helpful
+- Work with a group
+- You're going to be that weird carrying around a vase of electronics all day :/
 
 # Junior Year
 ### Fall
 #### ECE 322
-	- This is a linux, C and bash class
-	- One on the hardest if not the hardest class
-	- The way it works is that you have a certain amount of projects and grace days (days you can submit late)
-		○ You will need grace days later so try not to use them during the first projects
-	- You will do things like build a kernal in C
-	- DO NOT REMOVE YOUR VIRTUAL MACHINE
-		○ You will need it for other classes later on
-	- One of the most bullshit exams ever for midterm and final
-		○ He literally puts the most random and specific things ever
-		○ Only tip is to use the practice exam and really know whats going on with your code
+- This is a linux, C and bash class
+- One on the hardest if not the hardest class
+- The way it works is that you have a certain amount of projects and grace days (days you can submit late)
+	- You will need grace days later so try not to use them during the first projects
+- You will do things like build a kernal in C
+- DO NOT REMOVE YOUR VIRTUAL MACHINE
+    - You will need it for other classes later on
+- One of the most bullshit exams ever for midterm and final
+	- He literally puts the most random and specific things ever
+	- Only tip is to use the practice exam and really know whats going on with your code
 	- His lectures are so terrible, he does not take the class seriously and says the most outlandish things ever, he's laughing at how brutal his class is most of the time
-		○ You can go to lecture and right down the weirdest things he comes out with
-		○ "Homework aren't meant for you to learn, but to suffer."
-	- Work with a group but try to write everything from scratch by yourself first, this will help for exams
+	- You can go to lecture and right down the weirdest things he comes out with
+	- "Homework aren't meant for you to learn, but to suffer."
+- Work with a group but try to write everything from scratch by yourself first, this will help for exams
 
 #### ECE 331
-	- Computer Architecture, you learn how computer chips work
-	- If you are interested in chip design, you should love this class, if you don't, look somewhere else
-	- Very fair class
-	- Two projects with Assembly
-	- Very fair exams, like practice exams
-	- Gummeson is a really nice guy, if you have any concerns, go to his office hour
+- Computer Architecture, you learn how computer chips work
+- If you are interested in chip design, you should love this class, if you don't, look somewhere else
+- Very fair class
+- Two projects with Assembly
+- Very fair exams, like practice exams
+- Gummeson is a really nice guy, if you have any concerns, go to his office hour
 
 #### ECE 371
-	- You either love or hate Security Engineering
-	- You learn about cryptography, how computers and software make their information and operations secure
-	- Not many schools offer things like this, very unique opportunity
-	- Burleson is a very famous researcher in the field
-		○ Because so, he doesn’t seem to care about this class and gives all his work to the Tas
-		○ I like to say that when you go to class and see the slides for the first time, so is Burleson 
-	- Labs are hard, get ready for some long days in DooDoo hall
-		○ If you are interested in these labs, take 332 next semester
-	- Homeworks are easy
-	- Exams are reasonable
+- You either love or hate Security Engineering
+- You learn about cryptography, how computers and software make their information and operations secure
+- Not many schools offer things like this, very unique opportunity
+- Burleson is a very famous researcher in the field
+	- Because so, he doesn’t seem to care about this class and gives all his work to the Tas
+	- I like to say that when you go to class and see the slides for the first time, so is Burleson 
+- Labs are hard, get ready for some long days in DooDoo hall
+	- If you are interested in these labs, take 332 next semester
+- Homeworks are easy
+- Exams are reasonable
 
 #### Junior Year Writing Engineering 351
-	- Go onto rate my professor and find the best one
-	- Please do not take honors, this semester will be so hard if you do that to yourself
-	- Most engineers cannot write or public speak, its why they are engineers
-	- So if you can not read off of your phone during a presentation and write at a 10th grade level, you should get an easy A here
+- Go onto rate my professor and find the best one
+- Please do not take honors, this semester will be so hard if you do that to yourself
+- Most engineers cannot write or public speak, its why they are engineers
+- So if you can not read off of your phone during a presentation and write at a 10th grade level, you should get an easy A here
 
 #### ECE 301
-	- A 1 credit seminar where they try to show you what you can do with your major
-	- Throwaway class really, can be useful if you don't know what you're interested in
-	- My issue is that they only really talk about what people do research in
-	- Most presenters are boring as hell 
+- A 1 credit seminar where they try to show you what you can do with your major
+- Throwaway class really, can be useful if you don't know what you're interested in
+- My issue is that they only really talk about what people do research in
+- Most presenters are boring as hell 
 
 # Requirements
 #### Junior Design Project
-	- Second Semester Junior Year
-	- Basically 231 but you write reports like you would for Senior Design Project and things get very low level
-	- Write easy testing requirements for yourself when the time comes
+- Second Semester Junior Year
+- Basically 231 but you write reports like you would for Senior Design Project and things get very low level
+- Write easy testing requirements for yourself when the time comes
 
 #### Senior Design Project
-	- All of Senior Year
-		○ Only Engineering major that becomes this
-	- Start finding people to work with early on
-	- Have a bunch of ideas ready
-	- Ask a professor you like to be your advisor ASAP
-	- Every SDP group literally thought of an object and put smart in front of it
-		○ Put a bunch of sensors on a RPI 
-	- My group got roped into a project that was harder than it should be
+- All of Senior Year
+	- Only Engineering major that becomes this
+- Start finding people to work with early on
+- Hvae a bunch of ideas ready
+- Ask a professor you like to be your advisor ASAP
+- Every SDP group literally thought of an object and put smart in front of it
+	- Put a bunch of sensors on a RPI 
+- My group got roped into a project that was harder than it should be
 
 
 # Electives: 
@@ -267,22 +268,22 @@ Heard about- *
 
 ## Easy: 
 #### ECE 325
-	- Second easiest class in ECE
-	- Computer Networking (how computers across the world communicate)
-	- I found it interesting
-	- Easy homework and exams
-	- Must take for CompE's
+- Second easiest class in ECE
+- Computer Networking (how computers across the world communicate)
+- I found it interesting
+- Easy homework and exams
+- Must take for CompE's
 #### ECE 597SD
-	- Embedded System Designs
-	- If you liked JDP, take this class
-	- Only homework is to review a paper and answer questions on it
-	- Projects were to read a paper and give a presentation about it
-	- Like in Junior Year Writing, most engineers cannot public speak, so if you can talk, you should be golden
-	- Project was pretty cool, you are given equipment and a unique research question to replicate; I embedded information over sound
+- Embedded System Designs
+- If you liked JDP, take this class
+- Only homework is to review a paper and answer questions on it
+- Projects were to read a paper and give a presentation about it
+- Like in Junior Year Writing, most engineers cannot public speak, so if you can talk, you should be golden
+- Project was pretty cool, you are given equipment and a unique research question to replicate; I embedded information over sound
 #### ECE 597LP
-	- Low Power Embedded Systems
-	- Basically 597SD but with a low power focus and its easier
-	- Taught by Gummeson who is really nice
+- Low Power Embedded Systems
+- Basically 597SD but with a low power focus and its easier
+- Taught by Gummeson who is really nice
 
 
 
@@ -290,25 +291,25 @@ Heard about- *
 
 ## Medium:
 #### ECE 332
-	- Only projects
-	- 1 lecture a month that is 3 hours
-	- Need to go to lecture for the exam, there are no recordings or notes
-	- Very easy until the final project (no one finished that, everyone brute forced the solutions to trick the TAs) and the final exam (super specific and random things that relate to the class)
-	- An easy B+
+- Only projects
+- 1 lecture a month that is 3 hours
+- Need to go to lecture for the exam, there are no recordings or notes
+- Very easy until the final project (no one finished that, everyone brute forced the solutions to trick the TAs) and the final exam (super specific and random things that relate to the class)
+- An easy B+
 #### ECE 597AA
-	- Super easy until the final project which was ridiculously hard, no one finished it
-	- Homework and Midterm was the same format at ECE 597SD
+- Super easy until the final project which was ridiculously hard, no one finished it
+- Homework and Midterm was the same format at ECE 597SD
 #### CS 383
-	- Lots of cool but hard projects
-	- Great to know how AI works, higher level CS stuff
-	- Lots of information
+- Lots of cool but hard projects
+- Great to know how AI works, higher level CS stuff
+- Lots of information
 #### ECE 244*
-	- Had an EE friend say it was challenging but not the end of the world
-    - Don't know why you would ever want to take a Physics class as a CompE
+- Had an EE friend say it was challenging but not the end of the world
+- Don't know why you would ever want to take a Physics class as a CompE
 #### CS 403*
-	- Basically physics
+- Basically physics
 #### CS 446*
-	- Roommate had a tough time
+- Roommate had a tough time
 
 
 
@@ -317,20 +318,32 @@ Heard about- *
 	- VLSI
 	- One of the hardest and most infamously brutal courses 
 	- Must take if you're interested in chip design
+
 #### ECE 559
 	- Continuation of ECE 588
+
 #### ECE 341
 	- Algorithms
 	- The other infamously brutal courses
 	- Don't do this to yourself please
+
+
 #### CS 311
 	- Same as ECE 341
+
+
 #### ECE 310*
 	- I know EE's who die Junior year first semester because of this class
+
+
 #### ECE 311*
 	- Same as ECE 310
+
+
 #### ECE 570
 	- More Irwin from ECE 322, DO NOT DO THIS TO YOURSELF
+
+
 #### ECE 500 level Machine Learning *
 	- People say this was a lot of work and to not take 
 
