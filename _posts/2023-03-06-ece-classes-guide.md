@@ -83,41 +83,39 @@ Above outlines which classes you will take through your time with the major. As 
 # Freshman Year
 ### Fall 
 
-| Class      | Notes |
-| ----------- | ----------- |
-| Engineering 112      |  An introduction to ECE which professors try to show you the different things you can do in the field 
-<br><br>  Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
-<br><br>  The homeworks will be hard on purpose and really long, I suggest going to TA office hours and finding other kids to collaborate with |
-| Physics 151  | This is a huge weed out class
-<br><br> Kids from all sorts of majors are here and its going to be a challenge to complete
-<br><br> The homeworks are all online and there are two three exams. The exams will be hard, some kids will find it very easy but don't worry, later on you'll all be on the same level with your courses. The exams are all multiple choice which is not a good thing
-<br><br> I recommend studying a week in advance, go over the practice exam multiple times, go over homework questions, go to office hours and find a study group to go over the practice exam with | Math 131   |  Another major weed out class
-<br><br> Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep. 
-<br><br> Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of you having a white board and all doing the problem at once then reviewing together
-<br><br> I felt guilty for some reason with this strategy, it really works for these types of classes | English Writing 112 | <br><br> A grad student teaches you basic English. You should just write well and stay up to date with the course assignments. 
-<br><br> For a cheat code, just go to their office hours and introduce yourself, get them to review your rough draft. | Freshman Year Seminar |  Literally just a class for you to meet people. Be friendly and make new friends | Gen Ed | Pick one you need, go on rate my professor and make sure they have | 
 
 #### Engineering 112
 - An introduction to ECE which professors try to show you the different things you can do in the field 
 - Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
 - The homeworks will be hard on purpose and really long, I suggest going to TA office hours and finding other kids to collaborate with
+&nbsp;
+
 #### Physics 151
 - This is a huge weed out class
 - Kids from all sorts of majors are here and its going to be a challenge to complete
 - The homeworks are all online and there are two three exams. The exams will be hard, some kids will find it very easy but don't worry, later on you'll all be on the same level with your courses. The exams are all multiple choice which is not a good thing
 - I recommend studying a week in advance, go over the practice exam multiple times, go over homework questions, go to office hours and find a study group to go over the practice exam with
+&nbsp;
+
 #### Math 131
 - Another major weed out class
 - Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep. 
 - Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of you having a white board and all doing the problem at once then reviewing together
 - I felt guilty for some reason with this strategy, it really works for these types of classes
+&nbsp;
+
 #### English Writing 112
 - A grad student teaches you basic English. You should just write well and stay up to date with the course assignments. 
 - For a cheat code, just go to their office hours and introduce yourself, get them to review your rough draft. 
+&nbsp;
+
 #### Freshman Year Seminar 
 - Literally just a class for you to meet people. Be friendly and make new friends
+&nbsp;
+
 #### Gen Ed
 - Pick one you need, go on rate my professor and make sure they have 
+&nbsp;
 
 ## Winter Break Tips
 Over break, make sure to watch a bunch of intro to python videos to get an understanding of what's going on. You should get yourself to be able to program a game. 
@@ -127,6 +125,8 @@ If you're bad at physics, watch some circuit videos on youtube.
 Watch some boolean logic videos and solve some problems. 
 
 ### Spring 
+
+
 #### ECE 122
 - This is a python programming course
 - If you've never programmed before, this class can seem very fast paced
@@ -155,7 +155,11 @@ Watch some boolean logic videos and solve some problems.
 
 # Sophomore Year 
 This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
+
+
 ### Fall
+
+
 #### ECE 201
 - This is a math course for ECE students
 - Not bad, picks up at the end
@@ -192,6 +196,9 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - There are a few rules like KCL and KVL that will let you solve any circuit. Really practice that rule and you can solve all the problems. 
 
 #### Gen Ed
+- Take another Gen Ed, make sure to go onto rate my professor and find the best one with a decent class schedule
+
+
 
 ### Spring
 This is considered the hardest semester by many. This is mainly because CS 250 is the hardest CS class, let alone ECE. That's a lot of work but 213 and 231 sneaks up on you with their assignments. 
