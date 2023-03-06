@@ -20,7 +20,7 @@ One thing I am very grateful in having early in my Computer Engineering journey 
 
 :memo: **Note:** These are just my opinions based off my experience, please do not take this as gospel. 
 
-#### Table of Contents
+## Table of Contents
 
 - [Preface Points](#preface-points)
 - [Before Freshman Year](#before-freshman-year)
@@ -84,10 +84,10 @@ Above outlines which classes you will take through your time with the major. As 
 
 &nbsp;
 
-# Freshman Year
+# :one: Freshman Year
 
 &nbsp;
-## Fall 
+## Fall (Semester 1)
 #### Engineering 112
 - An introduction to ECE which professors try to show you the different things you can do in the field 
 - Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
@@ -128,7 +128,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 - Watch some boolean logic videos and solve some problems. 
 
-## Spring 
+## Spring (Semester 2)
 #### ECE 122
 - This is a python programming course
 - If you've never programmed before, this class can seem very fast paced
@@ -165,13 +165,11 @@ Above outlines which classes you will take through your time with the major. As 
 &nbsp;
 &nbsp;
 
-# Sophomore Year 
-
-&nbsp;
+# :otwo: Sophomore Year 
 
 This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
 
-## Fall
+## Fall (Semester 3)
 #### ECE 201
 - This is a math course for ECE students
 - Not bad, picks up at the end
@@ -214,7 +212,7 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - Honestly this break, just do nothing and just try and recooperate/ mentally prepare yourself for the next semester
 - Get your resume ready
 
-## Spring
+## Spring (Semester 4)
 This is considered the hardest semester by many. This is mainly because CS 250 is the hardest CS class, let alone ECE. That's a lot of work but 213 and 231 sneaks up on you with their assignments. 
 
 
@@ -253,12 +251,12 @@ Literally no tips, just bite the bullet, this class is god awful
 &nbsp;
 
 
-# Junior Year
+# :three: Junior Year
 
 &nbsp;
 
 
-### Fall
+### Fall (Semester 5)
 
 You will be looking for an internship this semester and you will be busting your ass doing so. I recommend going to the Engineering Career Center and getting your resume perfected and practicing your interview skills with mock interviews
 
@@ -321,7 +319,11 @@ You will be looking for an internship this semester and you will be busting your
 
 <h3 style="color:red">You now enter the territory where you pick your own classes and take a design project each semester</h3>
 
-# Design Projects
+
+&nbsp;
+
+
+# :arrow_double_down: Design Projects
 #### Junior Design Project
 - Second Semester Junior Year
 - Basically 231 but you write reports like you would for Senior Design Project and things get very low level
@@ -338,7 +340,7 @@ You will be looking for an internship this semester and you will be busting your
 - My group got roped into a project that was harder than it should be
 
 
-# Electives: 
+# :twisted_rightwards_arrows: Electives: 
 :bulb: **Note:** A * indicates I heard about it but didn't take myself 
 
 ## Easy: 
