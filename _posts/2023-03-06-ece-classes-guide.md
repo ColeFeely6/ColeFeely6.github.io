@@ -14,9 +14,14 @@ categories: computers
     </div>
 </div>
 
+
+# Introduction
+One thing I am very grateful in having early in my Computer Engineering journey was having a friend who was a year ahead of me that would answer any question I had about any courses or the major. It helped me immensely to have someone who could help guide me through the storm, so here I will do my best to give tips and tricks on the classes you will take and recommendations and warnings for electives.
+
+:memo: **Note:** These are just my opinions based off my experience, please do not take this as gospel. 
+
 #### Table of Contents
 
-- [Introduction](#introduction)
 - [Preface Points](#preface-points)
 - [Before Freshman Year](#before-freshman-year)
 - [Curriculum](#curriculum)
@@ -25,13 +30,6 @@ categories: computers
 - [Junior Year](#junior-year)
 - [Design Projects](#design-projects)
 - [Electives](#electives)
-
-
-
-# Introduction
-One thing I am very grateful in having early in my Computer Engineering journey was having a friend who was a year ahead of me that would answer any question I had about any courses or the major. It helped me immensely to have someone who could help guide me through the storm, so here I will do my best to give tips and tricks on the classes you will take and recommendations and warnings for electives.
-
-:memo: **Note:** These are just my opinions based off my experience, please do not take this as gospel. 
 
 # Preface Points
 
@@ -105,7 +103,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 #### Math 131
 - Another major weed out class
-- Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep. 
+- Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep 
 - Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of you having a white board and all doing the problem at once then reviewing together
 - I felt guilty for some reason with this strategy, it really works for these types of classes
 &nbsp;
