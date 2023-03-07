@@ -18,7 +18,9 @@ categories: computers
 # Introduction
 One thing I am very grateful in having early in my Computer Engineering journey was having a friend who was a year ahead of me that would answer any questions I had about courses or the major itself. It helped me immensely to have someone who helped guide me through the storm, so here I will do my best to give some tips and tricks on the classes you will take as well as recommendations and warnings for electives later on for your last 3 semesters.
 
-:memo: **Note:** These are just my opinions based off my experience, please do not take this as gospel. 
+> :memo: **Note:** These are just my opinions based off my experience, please do not take this as gospel. 
+
+> :question: **Question not answered here?** Feel free to email me at colehfeely@gmail.com
 
 ## Table of Contents
 
@@ -150,8 +152,9 @@ Above outlines which classes you will take through your time with the major. As 
 #### ECE 124
 - I am a TA in this class
 - This class starts easy and it seems like simple addition and subtraction at first but the last half of the semester picks up rapidly
-- You are really going to learn through the homeworks and discussion questions, so try and follow along in class and for exams, make sure you know the crap out of every homework, discussion and practice exam questions
-- Go to office hours
+- You are really going to learn through the homeworks and discussion questions, so try and follow along in class
+- For exams, make sure you know everything out of the homework very well as well as the discussion and practice exam questions
+- Go to office hours :grin:
 
 #### Physics 152
 - Same as Physics 151 tips
@@ -159,7 +162,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 #### Calculus 132
 - In my opinion, better than 131
-- Same Strategy
+- Same strategy as Calc 131
 
 #### Gen Ed
 - Take an easy Gen Ed here or take a class for your minor
@@ -168,32 +171,33 @@ Above outlines which classes you will take through your time with the major. As 
 
 ## :sunny: Rising Sophomore Summer Break Tips
 
-- The Freshman year summer, rarely do peopl get internships so don't feel bad if you don't have one, companies don't really look at you for internships until you are a Junior
-- What I recommend is get a summer job and work on projects that you can put on your resume  and/or used UMass's LinkedIn learning resources to get certificates. 
+- Rarely do people get internships the summer after Freshman year so don't feel bad if you don't have one or a pressure to have one, companies don't really look at you for internships until you are a Junior
+- I recommend getting a summer job and working on projects that you can put on your resume  and/or used UMass's LinkedIn learning resources to get certificates. 
 
 &nbsp;
 &nbsp;
 
 # :microscope: Sophomore Year 
 
-This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year. 
+> :Warning: **This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year.**
 
 ## Fall (Semester 3)
 #### ECE 201
 - This is a math course for ECE students
-- Not bad, picks up at the end
+- Differential Equations, Linear Algebra and Eurler's math
+- Not bad, picks up with difficulty at the end
 - Highly recommend working with a group of people
 - To study, again know the shit out of the homework, discussion and practice exam questions. Be able to do them in your sleep
 
 #### ECE 202
 - I was a tutor in this class
-- This is Matlab and Excel work
-- Bill Leonard has a philosophy and really hammers it here
-	-  His philosophy is called mastery and its basically doing an assignment over and over again until you get it complete right, no errors
-	-  Essentially, his homeworks aren't hard, but you have to get it perfect and you will submit it about 7+ times until it's perfect
+- Mastering Matlab and Excel 
+- Bill Leonard has a philosophy and really hammers it into you through this course
+	-  His philosophy is called *Mastery* and it's basically doing an assignment over and over again until you get it completely right with no errors
+	-  Essentially his homeworks aren't hard, but you have to get it perfect, meaning you will be submitting one assignment about 7+ times until it's *perfect*
 - This class is a lot of work but the assignments are easy
 - My strategy was to do an assignment everyday and submit it, then resubmit assignments you got feedback on everyday
-- If you remember that children's game called something like clear the yard where two teams try to throw objects into the other teams side and the team with the least amount of objects at the end wins? This class is basically that, you are just going to work on assignments every time you get feedback and submit right away
+	- Do you remember that children's game called something like "clear the yard" where two teams try to throw objects into the other team's side and the team with the least amount of objects at the end wins? This class is basically that, you are just going to work on assignments and every time you get feedback, you submit it right away
 - This class is set up for you to succeed. If you get your bonus points by getting things in on time, you can get an A and be done with the class early
 - Go to tutoring as frequently as possible, they literally have the answer key
 - DO NOT PROCRASTIONATE
@@ -205,14 +209,14 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - Projects are hard, exams are exactly like the practice exams
 - Work on projects with a group
 - Go to office hours when stuck
-- Use the bill Leonard method, work on this a little everyday until you get stuck, then move onto something else
+- Use the Bill Leonard method: work on an assignment until you get stuck, then move onto something els. Do this everyday
 
 #### ECE 210
-- A lot of people struggle in this class and complain a lot. They complain because they feel like there is a big difference between lecture and assignments. Yes, this is on purpose. Like how 241 is literally everything you need to get a job in Software, this course is everything you need to get a job in EE. There's a lot to learn and like how 122 changed your brain, this class will too. 
+- A lot of people struggle in this class and complain a lot. They complain because they feel like there is a big difference between lecture and assignments. Yes, this is on purpose. Like how 241 is literally everything you need to get a job in Software, this course is everything you need to get a job in EE. There's a lot to learn and like how 122 changed your brain, this class will too
 - Pay attention in class and take notes
-- Use different colors for your circuits
+- Use different colors for your circuit diagrams
 - Practice the shit out of practice exams and homeworks, know how everything works
-- There are a few rules like KCL and KVL that will let you solve any circuit. Really practice that rule and you can solve all the problems. 
+- There are a few rules like KCL and KVL that will let you solve any circuit. Really practice those so you can solve all the problems easily
 
 #### Gen Ed
 - Take another Gen Ed, make sure to go onto rate my professor and find the best one with a decent class schedule
@@ -222,12 +226,12 @@ This is your hardest year. Buckle up because you will struggle with your relatio
 - Get your resume ready
 
 ## Spring (Semester 4)
-This is considered the hardest semester by many. This is mainly because CS 250 is the hardest CS class, let alone ECE. That's a lot of work but 213 and 231 sneaks up on you with their assignments. 
+**This is considered the hardest semester by many. This is mainly because CS 250 is the hardest CS class, let alone ECE. That's a lot of work but 213 and 231 sneaks up on you with their assignments.**
 
 
 #### CS 250
-Math course in CS
-Literally no tips, just bite the bullet, this class is god awful 
+- Math course in Computer Science
+- Literally no tips, just bite the bullet, this class is god awful 
 
 #### ECE 213 
 - This class you learn about signals and waves
@@ -238,8 +242,8 @@ Literally no tips, just bite the bullet, this class is god awful
 
 #### ECE 214
 - Probability and Stats
-- Most fair and easy class ever
-- Literally no excuse for not getting an A, they put this here because your other courses are ass
+- Most fair and easy class in ECE
+- Literally no excuse for not getting an A, they put this here because your other courses are terrible
 	
 #### ECE 231
 - Cool class, you learn to work with MCUs and building computer systems
@@ -250,12 +254,13 @@ Literally no tips, just bite the bullet, this class is god awful
 	- The next semester you have a brutal C class and being familiar with C will be super helpful
 - Work with a group
 - You're going to be that weird carrying around a vase of electronics all day :/
+- Projects will seem very difficult
 
 ## :sunny: Rising Junior Summer Break Tips 
 - Again, no one expects you to have an internship at this point. If you do, you probably networked through your parents or family friends, which isn't a bad thing!
-- Again, get a job and in your spare time, you need to study the crap out of interview questions that you would be asked and  preparing your interview skills
-- For Computer Engineering or Sowftware jobs, read cracking the code. For EE, there are definitely some resources out there to study with
-- Junior Year Fall is when you are going to be busting your ass looking for an internship and you won't have any spare time to really study hard for those interviews, so get it out of the way now!
+- Get a summer job and in your spare time, you **need** to study the crap out of interview questions that you would be asked and  preparing your interview skills
+- For Computer Engineering or Sowftware jobs, read "Cracking the Coding Interview" and practice questions on LeetCode. For EE, there are definitely some resources out there to study with
+- Junior Year Fall is when you are going to be busting your ass looking for an internship and you won't have any spare time to really study hard for those interviews, so get it out of the way now! You'll thank yourself later
 
 &nbsp;
 
@@ -271,27 +276,27 @@ You will be looking for an internship this semester and you will be busting your
 
 
 #### ECE 322
-- This is a linux, C and bash class
-- One on the hardest if not the hardest class
+- This is a Linux, C and bash class
+- One on the hardest required classes, if not the hardest
 - The way it works is that you have a certain amount of projects and grace days (days you can submit late)
 	- You will need grace days later so try not to use them during the first projects
-- You will do things like build a kernal in C
-- DO NOT REMOVE YOUR VIRTUAL MACHINE
+- Your Projects will be things like building a Kernal in C
+- DO NOT REMOVE YOUR VIRTUAL MACHINE AFTER THIS SEMESTER
     - You will need it for other classes later on
-- One of the most bullshit exams ever for midterm and final
+- Probably the most bullshit exams I have ever taken
 	- He literally puts the most random and specific things ever
 	- Only tip is to use the practice exam and really know whats going on with your code
 	- His lectures are so terrible, he does not take the class seriously and says the most outlandish things ever, he's laughing at how brutal his class is most of the time
 	- You can go to lecture and right down the weirdest things he comes out with
-	- "Homework aren't meant for you to learn, but to suffer."
-- Work with a group but try to write everything from scratch by yourself first, this will help for exams
+	- "Homework Assignments aren't meant for you to learn, but for you to suffer."
+- Work with a group but try to write everything from scratch by yourself first, this will help for exams which are largely to do with bugs you would run into or random things you would encounter while doing the projects
 
 #### ECE 331
 - Computer Architecture, you learn how computer chips work
 - If you are interested in chip design, you should love this class, if you don't, look somewhere else
 - Very fair class
 - Two projects with Assembly
-- Very fair exams, like practice exams
+- Very fair exams which are similar to the practice exams
 - Gummeson is a really nice guy, if you have any concerns, go to his office hour
 
 #### ECE 371
@@ -299,10 +304,10 @@ You will be looking for an internship this semester and you will be busting your
 - You learn about cryptography, how computers and software make their information and operations secure
 - Not many schools offer things like this, very unique opportunity
 - Burleson is a very famous researcher in the field
-	- Because so, he doesn’t seem to care about this class and gives all his work to the Tas
+	- Because so, he doesn’t seem to care about this class and gives all his work to the TAs
 	- I like to say that when you go to class and see the slides for the first time, so is Burleson 
-- Labs are hard, get ready for some long days in DooDoo hall
-	- If you are interested in these labs, take 332 next semester
+- Labs are hard, get ready for some long days in DooDoo Hall (which is literally a shipping container with computers in it)
+	- If you are interested in these labs, take ECE 332 next semester
 - Homeworks are easy
 - Exams are reasonable
 
@@ -311,16 +316,18 @@ You will be looking for an internship this semester and you will be busting your
 - Please do not take honors, this semester will be so hard if you do that to yourself
 - Most engineers cannot write or public speak, its why they are engineers
 - So if you can not read off of your phone during a presentation and write at a 10th grade level, you should get an easy A here
+- You can also opt to take this next semester instead 
 
 #### ECE 301
 - A 1 credit seminar where they try to show you what you can do with your major
+- A different Professor comes in once a week and lectures about a feild of study
 - Throwaway class really, can be useful if you don't know what you're interested in
-- My issue is that they only really talk about what people do research in
+- My issue is that the professors only really talk about what people do research in
 - Most presenters are boring as hell 
 
 
 ## :snowflake: Junior Year Winter Break Tips
-- You should be continuing your Summer internhsip search here if you have not found one already. Go all out and pull all the strings you have. 
+- You should be continuing your Summer internship search if you have not found one already. Go all out and pull all the strings you have. 
 
 &nbsp;
 
@@ -340,17 +347,16 @@ You will be looking for an internship this semester and you will be busting your
 
 #### Senior Design Project
 - All of Senior Year
-	- Only Engineering major that becomes this
+	- Only Engineering major that has this
 - Start finding people to work with early on
-- Hvae a bunch of ideas ready
-- Ask a professor you like to be your advisor ASAP
-- Every SDP group literally thought of an object and put smart in front of it
-	- Put a bunch of sensors on a RPI 
+- Have a bunch of ideas ready
+- Ask a professor you like to be your advisor ASAP during rising Senior summer
+- Every SDP group literally thought of an object and put smart in front of it like smart fish bowl, smart garden, smart shoes etc 
 - My group got roped into a project that was harder than it should be
 
 
 # :twisted_rightwards_arrows: Electives: 
-:bulb: **Note:** A * indicates I heard about it but didn't take myself 
+> :bulb: **Note:** A * indicates I heard about it but didn't take myself 
 
 ## :white_check_mark: Easy: 
 #### ECE 325
