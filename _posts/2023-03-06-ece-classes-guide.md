@@ -179,7 +179,7 @@ Above outlines which classes you will take through your time with the major. As 
 
 # :microscope: Sophomore Year 
 
-> :Warning: **This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year.**
+> :warning: **This is your hardest year. Buckle up because you will struggle with your relationship with ECE until Spring Junior Year.**
 
 ## Fall (Semester 3)
 #### ECE 201
@@ -332,6 +332,8 @@ You will be looking for an internship this semester and you will be busting your
 &nbsp;
 
 &nbsp;
+
+> :warning: You are now entering the territory where you pick your own classes and take a design project each semester 
 
 <h3 style="color:red">You now enter the territory where you pick your own classes and take a design project each semester</h3>
 
