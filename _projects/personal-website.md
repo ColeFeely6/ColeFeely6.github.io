@@ -3,7 +3,7 @@ layout: page
 title: This Website
 description: Why and how I built this website 
 img: assets/img/website-screenshot.png
-importance: 1
+importance: 2
 category: fun
 ---
 
