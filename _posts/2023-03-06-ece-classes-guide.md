@@ -337,8 +337,16 @@ You will be looking for an internship this semester and you will be busting your
 - You should be continuing your Summer internship search if you have not found one already. Go all out and pull all the strings you have. 
 
 &nbsp;
+
+
+
 _________________
+
+
+
+
 &nbsp;
+
 
 > :warning: You are now entering the territory where you pick your own classes and take a design project each semester 
 
