@@ -356,7 +356,7 @@ You will be looking for an internship this semester and you will be busting your
 
 
 # :twisted_rightwards_arrows: Electives: 
-> :bulb: **Note:** A * indicates I heard about it but didn't take myself 
+> :bulb: **Note:** A * indicates that I heard about it but didn't take myself 
 
 ## :white_check_mark: Easy: 
 #### ECE 325
@@ -426,6 +426,7 @@ You will be looking for an internship this semester and you will be busting your
 - Roommate had a tough time
 &nbsp;
 &nbsp;
+
 
 ## :red_circle: Hard: 
 #### ECE 588 
