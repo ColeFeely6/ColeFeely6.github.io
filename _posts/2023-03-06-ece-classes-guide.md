@@ -335,16 +335,14 @@ You will be looking for an internship this semester and you will be busting your
 
 > :warning: You are now entering the territory where you pick your own classes and take a design project each semester 
 
-<h3 style="color:red">You now enter the territory where you pick your own classes and take a design project each semester</h3>
-
-
 &nbsp;
 
 
 # :arrow_double_down: Design Projects
+&nbsp;
 #### Junior Design Project
 - Second Semester Junior Year
-- Basically 231 but you write reports like you would for Senior Design Project and things get very low level
+- Basically ECE 231 but you write reports like you would for Senior Design Project and [things get very low level](https://colefeely6.github.io/projects/junior-design-project/)
 - Write easy testing requirements for yourself when the time comes
 
 #### Senior Design Project
@@ -366,17 +364,18 @@ You will be looking for an internship this semester and you will be busting your
 - Computer Networking (how computers across the world communicate)
 - I found it interesting
 - Easy homework and exams
-- Must take for CompE's
+- A Must take for Comp E's
 &nbsp;
 
 
 #### ECE 597SD
 - Embedded System Designs
-- If you liked JDP, take this class
+- If you liked JDP, take this class 
+- No Exams
 - Only homework is to review a paper and answer questions on it
 - Projects were to read a paper and give a presentation about it
 - Like in Junior Year Writing, most engineers cannot public speak, so if you can talk, you should be golden
-- Project was pretty cool, you are given equipment and a unique research question to replicate; I embedded information over sound
+- Project was pretty cool, you are given equipment and a unique research question to replicate; [I embedded information over sound](https://colefeely6.github.io/projects/project-chime/)
 &nbsp;
 
 
@@ -384,6 +383,7 @@ You will be looking for an internship this semester and you will be busting your
 - Low Power Embedded Systems
 - Basically 597SD but with a low power focus and its easier
 - Taught by Gummeson who is really nice
+- No Exams
 
 
 &nbsp;
@@ -392,8 +392,8 @@ You will be looking for an internship this semester and you will be busting your
 
 ## :large_orange_diamond: Medium:
 #### ECE 332
-- Only projects
-- 1 lecture a month that is 3 hours
+- Only projects and a final exam
+- 1 lecture a month that is brutally 3 hours long
 - Need to go to lecture for the exam, there are no recordings or notes
 - Very easy until the final project (no one finished that, everyone brute forced the solutions to trick the TAs) and the final exam (super specific and random things that relate to the class)
 - An easy B+
@@ -401,30 +401,45 @@ You will be looking for an internship this semester and you will be busting your
 
 
 #### ECE 597AA
+- Artificial Intelligence in Wireless Based Networks
 - Super easy until the final project which was ridiculously hard, no one finished it
-- Homework and Midterm was the same format at ECE 597SD
+- No way you could understand that material, it was super dense
+- Homework and Midterm Presentation was the same format at ECE 597SD
+- No Exam
 &nbsp;
 
 
 #### CS 383
+- Computer Science's Artificial Intelligence class
 - Lots of cool but hard projects
 - Great to know how AI works, higher level CS stuff
 - Lots of information
 &nbsp;
 
+#### ECE 397Q
+- Quantum Computing
+- Interesting class so far, the professor is boring at teaching and is excited whenever you ask questions
+- Make sure you take with some friends
+- Presentation for a Midterm
+- Python Projects for Lab
+- Weekly Homework assignments that are similar to the class notes
+&nbsp;
+
 
 #### ECE 244*
 - Had an EE friend say it was challenging but not the end of the world
-- Don't know why you would ever want to take a Physics class as a CompE
+- Don't know why you would ever want to take a Physics class as a Comp E
 &nbsp;
 
 
 #### CS 403*
-- Basically physics
+- Intro to Robotics
+- Basically physics, not much to do with building robots
 &nbsp;
 
 
 #### CS 446*
+- Search Engines
 - Roommate had a tough time
 &nbsp;
 &nbsp;
@@ -434,6 +449,7 @@ You will be looking for an internship this semester and you will be busting your
 #### ECE 588 
 - VLSI
 - One of the hardest and most infamously brutal courses 
+- Professor who made the class said not to take it, it's too difficult
 - Must take if you're interested in chip design
 &nbsp;
 
@@ -445,7 +461,7 @@ You will be looking for an internship this semester and you will be busting your
 
 #### ECE 341
 - Algorithms
-- The other infamously brutal courses
+- The other infamously brutal course
 - Don't do this to yourself please
 &nbsp;
 
@@ -479,14 +495,14 @@ You will be looking for an internship this semester and you will be busting your
 I don't know people who have bothered taking these or I can't recall what they said about it 
 &nbsp;
 
-#### ECE 315*
-#### ECE 333* 
-#### ECE 334*
-#### ECE 544*
-#### ECE 547*
-#### ECE 564*
-#### ECE 565*
-#### ECE 565*
-#### ECE 571* 
-#### ECE 572*
-#### ECE 580*
+- ECE 315*
+- ECE 333* 
+- ECE 334*
+- ECE 544*
+- ECE 547*
+- ECE 564*
+- ECE 565*
+- ECE 565*
+- ECE 571* 
+- ECE 572*
+- ECE 580*
