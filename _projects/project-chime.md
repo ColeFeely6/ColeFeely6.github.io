@@ -14,14 +14,14 @@ category: work
     </div>
 </div>
 
-### Important Links
+### :bulb: Important Links
 
 <a href="https://github.com/ColeFeely6/Project-Chime">GitHub Repository</a>
 
 <a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Full Report</a>
 
 
-### Project Context
+### :speaker: Project Context
 
 Members: Cole Feely, Aidan Murray, Owen Lheron and Sashank Rao
 
@@ -29,7 +29,7 @@ Start Date: Sept. 27, 2022
 
 Due Date: December 8, 2022
 
-## Poster
+## :postbox: Poster
 
 ---
 
@@ -44,41 +44,46 @@ Due Date: December 8, 2022
     </div>
 </div>
 
-## Background 
+---
+
+## :mag_right: Background 
 
 There are some communication methods of data transfer using sensing signals with low-cost sensors but these systems produce low sampling rates which are not as efficient than high cost solutions with high sampling rates. We will investigate how we can improve sensing signal data transfer with low-cost sensors with low sampling rates by minimizing the error and noise rates commonly encountered.
 
 ---
 
-## Goal
+## :dart: Goal
 
 Encode data into an audio sensing signal and send it to a receiver where decoding algorithms will be performed to interpret the data.
 
 ---
 
-## Deliverables
+## :mailbox: Deliverables
 
 Demonstrate our goal with a modulation that best circumvents noise from audio channels, human speech or other background interference. Demonstrate better a reduction in the error rate from these interferences than off the shelf solutions Minimize decoding errors in the absence of symbol frame synchronization between the sender and receiver.
 
 ---
 
-## Hardware
+## :satellite: Hardware
 
-Receiver/ Sender: Arduino Uno Speaker: Personal Computer Speaker or a Piezo Buzzer Microphone: SparkFun Electret Microphone Breakout Other: Power Supply, Capacitors, Resistors, Jumpers etc.
-
----
-
-## Team Roles
-
-Logistics: Cole Feely
-SBC: Cole Feely
-Hardware Filter: Aidan Murray
-FFT: Owen Lheron
-Signal Deconstruction: Sash Rao
+- **Receiver/ Sender:** Arduino Uno 
+- **Speaker:** Personal Computer Speaker or a Piezo Buzzer 
+- **Microphone:** SparkFun Electret Microphone Breakout 
+- **Other:** Power Supply, Capacitors, Resistors, Jumpers etc.
 
 ---
 
-## Block Diagram 
+## :vertical_traffic_light: Team Roles
+
+- **Logistics:** Cole Feely
+- **SBC:** Cole Feely
+- **Hardware Filter:** Aidan Murray
+- **FFT:** Owen Lheron
+- **Signal Deconstruction:** Sash Rao
+
+---
+
+## :memo: Block Diagram 
 
 <div class="container">
     <div class="row">
@@ -90,10 +95,8 @@ Signal Deconstruction: Sash Rao
 
 ---
 
-## Results
+## :bar_chart: Results
 
-Check out our results in our Final Academic Paper:
-
-<a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Full Report</a>
+<a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Check out our results in our Final Academic Paper</a>
 
 ---
