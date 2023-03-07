@@ -16,7 +16,7 @@ categories: computers
 
 
 # Introduction
-One thing I am very grateful in having early in my Computer Engineering journey was having a friend who was a year ahead of me that would answer any question I had about any courses or the major. It helped me immensely to have someone who could help guide me through the storm, so here I will do my best to give tips and tricks on the classes you will take and recommendations and warnings for electives.
+One thing I am very grateful in having early in my Computer Engineering journey was having a friend who was a year ahead of me that would answer any questions I had about courses or the major itself. It helped me immensely to have someone who helped guide me through the storm, so here I will do my best to give some tips and tricks on the classes you will take as well as recommendations and warnings for electives later on for your last 3 semesters.
 
 :memo: **Note:** These are just my opinions based off my experience, please do not take this as gospel. 
 
@@ -32,31 +32,36 @@ One thing I am very grateful in having early in my Computer Engineering journey 
 - [Electives](#electives)
 
 # Preface Points
+Some things I think you should definitely know early on in your journey. 
+
 
 1. Don't Double Major in CS and CompE 
 - That's completely BS, no company is really going to care and you're just going to be dying for 5 years instead of 4
 2. If you have any interest in business, you MUST take the Engineering Management Minor 
--  Isenberg classes are very very restrictive and a great opportunity to take classes outside of ECE and great if you are interesting in combining Tech and Business
+-  Isenberg classes are very very restrictive and it's a great opportunity to take classes outside of ECE and great if you are interesting in combining Tech and Business
 - Isenberg classes are very easy and can help your GPA
-- Downside is 5 extra classes through a already packed schedule
-- Only recommend if you are coming into College with 2+ Gen Eds taken care of
-3. If you get into the Honors College, keep it for the first two years for the housing (worth it.) but do not take any honors classes or do the thesis senior year
+- Downside is 5 extra classes through an already packed schedule
+- I only recommend if you are coming into College with 2+ Gen Eds from College credit or consider taking some Gen Eds at a community college over the summer
+3. If you get into the Honors College, keep it for the first two years for the housing (worth it) but consider not doing take any honors classes or do the thesis senior year
+- I know you have a high ego and you want to have that one part of your resume to show off to others but I promise your sanity is not worth it, most Honors Computer Engineers drop it
 - The Classes are insanely harder than the general classes for no extra credit whatsoever and will only hurt your GPA
-- You will already have your Senior Design Project Senior year and doing an honors thesis is too much work. Doing grunt work for a professor's lab will not be fun upon the huge commitment SDP is
-- Although I have heard they removed the honors thesis requirement for ECE honors students
+- You will already have your Senior Design Project Senior year and doing an honors thesis is too much work. Doing grunt work for a professor's lab will not be fun combined with the amount of work SDP will be
+	- Although, I have heard they removed the honors thesis requirement for ECE honors students
 - Companies could not give two shits whether you are in an honors college or not. If anything, they would care about your GPA more (remember the harder classes?), and they don't really care about that to begin with. They care more about how good you can code/ your knowledge about EE or Comp E and what projects you have completed
-4. You are not an Engineering Major, you are an ECE major. After Freshman year, you have nothing in common with the other majors where they are either applied Physics or Chemistry majors. Don’t do too much work with people outside of ECE because very soon, you will not have classes in common
+4. You are not an Engineering Major, you are an ECE major. After Freshman year, you have nothing in common with the other engineering majors. They basically become either applied Physics or Chemistry majors. Don’t do too much work with people outside of ECE because very soon, you will not be in class with them and other people will group up without you
 
 # Before Freshman Year
-Yes I now, before your freshman year, you shouldn't worry about school and focus on spending the rest of your time at home with your friends and having little responsibility or expectations. But there are definitely some things you need to know before heading into the course. 
+Yes I know, before your Freshman Year, you shouldn't worry about school and you should focus on spending the rest of your time at home with your friends and having little responsibility or expectations. But there are definitely some things you need to know before heading into the course. 
 
 1. Know what classes you can get credit for from High School
-- This is crucial because in ECE, you have a very busy first 3 years and having to take a Gen Ed is a big time sink, getting a lot of those out of the way early on is very very helpful 
+- This is crucial because in ECE, you have a very busy first 3 years and taking a Gen Ed is a big time sink, getting a lot of those out of the way early on is crucial
 2. Your first year to year and a half, you will take a lot of general STEM classes 
--These are to give you the background knowledge/ understanding for your higher level classes later on. As a warning, these are weed out classes- in fact, the first two years are weed out classes. Physics and Calculus are challenging for many people and forces many of them out of the major
+- These are to give you the background knowledge/ understanding for your higher level classes later on
+- As a warning, these are weed out classes- in fact, the first two years are weed out classes
+- Physics and Calculus are challenging for many people and forces many of them out of the major
 3. BEFORE YOU GO TO YOUR ORIENTATION
-- You will refer to the curriculum below and do the following:
-- Go to your spire and click on courses
+- You will refer to the [curriculum chart](#curriculum) below and do the following:
+- Go to your [Spire](https://www.spire.umass.edu/) and click on courses
 - Go to course search
 - Look up your courses (Math 131, Physics 151, English Writing)
 - Look up the professors on rate my professor and write these down
@@ -65,7 +70,7 @@ Yes I now, before your freshman year, you shouldn't worry about school and focus
 4. Each ECE class has prerequesites 
 - Why is this important? If you're looking to graduate early or study abroad, you will need to look into which courses require other classes to rearrange your schedule
 5. Consider how important studying abroad is
-- If it’s a top priority of yours, talk to Bill Leonard right away to see how this is possible
+- If it’s a top priority of yours, talk to Bill Leonard(a super helpful and nice Professor) right away to see how this is possible
 6. Consider taking a minor
 - This is only feasible if you come into school with credits from high school courses
 
@@ -80,7 +85,7 @@ Yes I now, before your freshman year, you shouldn't worry about school and focus
     </div>
 </div>
 
-Above outlines which classes you will take through your time with the major. As you can see, in Comp E, the first year is a lot of general classes, but then Second year, you start taking all ECE classes. ECE is the only engineering major that starts taking pure Engineering classes this early, other engineering majors continue to take more math and science classes until junior year. You can start picking your classes Junior Year second semester, but until then, you only get to pick your Gen Ed classes. 
+Above outlines which classes you will take through your time with the major. As you can see, in Comp E, the first year is a lot of general classes, but then your second year, you start taking all ECE classes. ECE is the only engineering major that starts taking pure Engineering classes this early, other engineering majors continue to take more math and science classes until junior year. You can start picking your classes Junior Year second semester, but until then, you only get to pick your Gen Ed classes. 
 
 &nbsp;
 
@@ -89,9 +94,13 @@ Above outlines which classes you will take through your time with the major. As 
 &nbsp;
 ## Fall (Semester 1)
 #### Engineering 112
-- An introduction to ECE which professors try to show you the different things you can do in the field 
-- Professor Wolf is amazing, Hollot is okay but up tight and Sequira is so weird 
+- An introduction to ECE where professors try to show you the different things you can do in the field 
+- Professors in the class:
+	- Professor Wolf is amazing 
+	- Hollot is okay but up tight
+	- Sequira is very weird 
 - The homeworks will be hard on purpose and really long, I suggest going to TA office hours and finding other kids to collaborate with
+- There are some specific questions mixed with conceptual homework type questions on the exams
 &nbsp;
 
 #### Physics 151
@@ -103,14 +112,14 @@ Above outlines which classes you will take through your time with the major. As 
 
 #### Math 131
 - Another major weed out class
-- Hack to this class is that online, there are 10 years worth of exams at your disposal. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep 
-- Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of you having a white board and all doing the problem at once then reviewing together
+- A hack for this class is that there are 10 years worth of exams at your disposal online. All the exams have 8-10 types of questions which your exam will have as well. Practice the crap out of these questions. My goal was to get to the point that I could solve them without paying attention, which was great because most of the time I took the exams, I was falling asleep 
+- Find a study group to practice all the practice exams with. I recommend getting a room at the library and each of use a white board and all do the problem at once then reviewing together 
 - I felt guilty for some reason with this strategy, it really works for these types of classes
 &nbsp;
 
 #### English Writing 112
-- A grad student teaches you basic English. You should just write well and stay up to date with the course assignments. 
-- For a cheat code, just go to their office hours and introduce yourself, get them to review your rough draft. 
+- A grad student teaches you basic English. You should just write well and stay up to date with the course assignments 
+- For a cheat code, just go to their office hours and introduce yourself, get them to review your rough draft 
 &nbsp;
 
 #### Freshman Year Seminar 
@@ -118,7 +127,7 @@ Above outlines which classes you will take through your time with the major. As 
 &nbsp;
 
 #### Gen Ed
-- Pick one you need, go on rate my professor and make sure they have 
+- Pick one you need, go on rate my professor and make sure they have a good score and a decent class schedule
 &nbsp;
 
 ## :snowflake: Freshman Winter Break Tips
@@ -136,11 +145,11 @@ Above outlines which classes you will take through your time with the major. As 
 - Practice writing out your code on paper before exams, try to debug by hand
 - Go to office hours if you are running into errors
 - Try to debug your friends code
-- Programming requires a brain and this class you are constructing this new brain
+- Programming requires a certain way of thinking and in this class is all about developing that
 
 #### ECE 124
 - I am a TA in this class
-- This class starts easy and it seems like simple addition and subtraction but the last half of the year picks up like crazy
+- This class starts easy and it seems like simple addition and subtraction at first but the last half of the semester picks up rapidly
 - You are really going to learn through the homeworks and discussion questions, so try and follow along in class and for exams, make sure you know the crap out of every homework, discussion and practice exam questions
 - Go to office hours
 
