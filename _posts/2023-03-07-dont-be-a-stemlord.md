@@ -7,7 +7,15 @@ tags: thinking
 categories: thinking
 ---
 
-> **[STEMlord](https://en.wiktionary.org/wiki/STEMlord#:~:text=STEMlord%20(plural%20STEMlords),one%20who%20disparages%20the%20humanities.)** /n (plural STEMlords) (slang, derogatory) A self-important, condescending person with a background and/or interest in a STEM field, particularly one who disparages the humanities.
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/stemlordmeme.png" title="engineering meme" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
+> **[STEMlord](https://en.wiktionary.org/wiki/STEMlord#:~:text=STEMlord%20(plural%20STEMlords),one%20who%20disparages%20the%20humanities.)** * /n (plural STEMlords) (slang, derogatory) * A self-important, condescending person with a background and/or interest in a STEM field, particularly one who disparages the humanities.
 
 This term was first mentioned to me by my roommate and perfectly summarized an issue I've come across during my time at University. Surprisingly, this term has been coined by Humanities majors who have unfortunately had to interact with these people who often talk down to them as they consider their school work "more intensive" than others but the STEM-Lord can often put down other STEM majors as well. 
 
@@ -22,5 +30,7 @@ Why do you think you're better than anyone else?
 Why complain about your course load to others who never asked?
 Why make your major your personality and your social life?
 Why put down others to make yourself feel better?
+
+> The classes and grades you take doens't make you better than anyone else, you chose your major knowing what the workload would be like, don't continue to justify it by putting others down. 
 
 The lesson here is to not let any one thing become your personality, whether it’s the gym, looking a certain way, drinking, hooking up etc. We as people like to put labels on things and put people into categories but you don't need to put yourself into one. You can become a multi-dimensional person by stepping back and asking yourself why you do what you do and finding motivation in another way. You can find other passions and interests outside of your career. You can pursue developing relationships through deep conversations, this way you will have a connection to someone outside of what they can offer you in respect to your career. You're a person with so many interests and emotions, don't let all that be funneled into one category and weighed by other people. Be unforgivingly yourself, you just got to find that first! 
