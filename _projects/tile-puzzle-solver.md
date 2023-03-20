@@ -26,7 +26,7 @@ This was another project for my Artificial Intelligence class, where I was taske
 The program takes randomly generated puzzles and uses search strategies to optimally solve it. 
 
 
-## :mag: Search Streategies 
+## :mag: Search Strategies 
 
 I implemented Uniform-Cost, Greedy best-first and A* search to find the shortest path to the goal. 
 
