@@ -15,9 +15,11 @@ category: work
 </div>
 
 
-<a href="https://github.com/ColeFeely6/Tile-Puzzle-Solver">GitHub Repository</a>
+
 
 ## :newspaper: Introduction
+
+<a href="https://github.com/ColeFeely6/Tile-Puzzle-Solver">GitHub Repository</a>
 
 This was another project for my Artificial Intelligence class, where I was tasked with using my understanding of different search strategies and the ramificatinos of using different heurisitcs to solve a modified version of the classic 8 tile puzzle. The puzzle exists on a 3x3 grid with one open 'blank' space. The goal state is where the open tile is on the top left, followed by all the tiles in numerical order. 
 
