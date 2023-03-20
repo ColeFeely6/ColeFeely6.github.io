@@ -7,13 +7,6 @@ importance: 1
 category: work
 ---
 
-## Social Distancing Monitoring System: Junior Design Project
-
-- Date Completed: May 9, 2022
-
-
-- Course Number: ECE 304
-
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
@@ -22,12 +15,24 @@ category: work
     </div>
 </div>
 
-### Important Links
+### :link: Important Links
 
 <a href="https://youtu.be/32ZztrYxNW0">YouTube Demonstration</a>
+
+
 <a href="https://github.com/ColeFeely6/Junior-Design-Project">GitHub</a>
 
-## Introduction
+---
+
+## :part_alternation_mark: Details
+
+**Course Number:** ECE 304
+**Date Started:** Feb 24, 2022
+**Date Completed:** May 9, 2022
+
+---
+
+## :coffee: Introduction
 
 This report will serve as an overview of the final build’s tests and results. This build was
 expected to meet the specifications laid out in the second preliminary design review. As expected
@@ -36,7 +41,9 @@ initiated. Overall, this build serves to lay the groundwork for the main functio
 device. Section 1 will go over the previous plans and tests, Section 2 will denote design changes
 and Section 3 will design the results of the tests.
 
-## Problem Statement
+---
+
+## :mag: Problem Statement
 
 Limiting exposure and spread of the COVID-19 virus is vital for protecting our communities and
 by following safety protocols issued by public health agencies, we can reduce the number of
@@ -51,7 +58,9 @@ either approach or being a conversation with the person at the front desk. Addit
 user, the CDS will track the number of individuals that approach the desk according to a ti-e
 period and the minimum distance of the most recent visitors. 
 
-## Design Requirements
+---
+
+## :lock: Design Requirements
 
 1. Automatically detect patrons that are up to 10 feet away
 2. Shall track the distance of the approaching individual and display it for the visitor and the
@@ -73,13 +82,16 @@ the current patron
     </div>
 </div>
 
+---
 
-## Design Changes
+## :hammer: Design Changes
 
 I added multiple minimum distances rather than just two because I thought this would be more
 insightful for the operator. This was a positive design change rather than removing.
 
-## Test Results and Conclusion 
+---
+
+## :chart: Test Results and Conclusion 
 
 This build was able to reach all design requirements fully specified in the preliminary design
 review of the devices provided. The seven-segment display was buggy in that it flashed each
