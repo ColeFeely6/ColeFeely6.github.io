@@ -15,6 +15,7 @@ category: work
     </div>
 </div>
 
+## Introduction
 
 <a href="https://github.com/ColeFeely6/Connect-Four-Artificial-Intelligence">GitHub Repository</a>
 
@@ -32,24 +33,19 @@ The program first step was creating a baseline algorithm to find the next move. 
     </div>
 </div>
 
-Next I used the heuristic evaluation as a baseline, where the heuristic evaluation is invoked when the Minimax algorithm reaches a certain depth limit. This evaluation is considered the "brain" of this Connect-4 bot. The function returns an estimated utility function (either positive or negative) for any game state. 
+## Description 
+
+I used the heuristic evaluation as a baseline, where the heuristic evaluation is invoked when the Minimax algorithm reaches a certain depth limit. This evaluation is considered the "brain" of this Connect-4 bot. The function returns an estimated utility function (either positive or negative) for any game state. 
 
 Finally, I implemented the Alpha-Beta Pruning algorithm, a more efficient and effective AI algorithm. 
 
 The link to the repository is posted above, you can also check it out over on the repository tab on this website!
 
+## Code
+
 {% highlight python linenos %}
 import random
 import math
-
-
-BOT_NAME = "Cole and Zach's Robot"
-
-
-## Todo:
-# See if **arguments are needed
-# Edit evaluation function
-# Do prune
 
 class RandomAgent:
     """Agent that picks a random available move.  You should be able to beat it."""
