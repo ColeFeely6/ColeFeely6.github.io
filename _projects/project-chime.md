@@ -20,6 +20,7 @@ category: work
 
 <a href="https://github.com/ColeFeely6/Project-Chime/blob/main/ECE%20597-SD-Final-Report.pdf">Full Report</a>
 
+---
 
 ### :speaker: Project Context
 
