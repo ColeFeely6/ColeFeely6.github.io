@@ -17,19 +17,20 @@ category: work
 
 <a href="https://github.com/ColeFeely6/Tile-Puzzle-Solver">GitHub Repository</a>
 
+## :newspaper: Introduction
 
 This was another project for my Artificial Intelligence class, where I was tasked with using my understanding of different search strategies and the ramificatinos of using different heurisitcs to solve a modified version of the classic 8 tile puzzle. The puzzle exists on a 3x3 grid with one open 'blank' space. The goal state is where the open tile is on the top left, followed by all the tiles in numerical order. 
 
 The program takes randomly generated puzzles and uses search strategies to optimally solve it. 
 
 
-## Search Streategies 
+## :mag: Search Streategies 
 
 I implemented Uniform-Cost, Greedy best-first and A* search to find the shortest path to the goal. 
 
 The searches are implemented following the heurisitcs, "number of misplced tiles", "Manhattan Distance" and a modified Manhattan distance that takes into account the different transition costs. Each strategy is then compared to how the basic Breadth First Search would solve the puzzle. 
 
-## Code
+## :computer: Code
 
 {% highlight python linenos %}
 
