@@ -15,7 +15,7 @@ category: work
     </div>
 </div>
 
-## Introduction
+## :vertical_traffic_light: Introduction
 
 <a href="https://github.com/ColeFeely6/Connect-Four-Artificial-Intelligence">GitHub Repository</a>
 
@@ -33,7 +33,7 @@ The program first step was creating a baseline algorithm to find the next move. 
     </div>
 </div>
 
-## Description 
+## :book: Description 
 
 I used the heuristic evaluation as a baseline, where the heuristic evaluation is invoked when the Minimax algorithm reaches a certain depth limit. This evaluation is considered the "brain" of this Connect-4 bot. The function returns an estimated utility function (either positive or negative) for any game state. 
 
@@ -41,7 +41,7 @@ Finally, I implemented the Alpha-Beta Pruning algorithm, a more efficient and ef
 
 The link to the repository is posted above, you can also check it out over on the repository tab on this website!
 
-## Code
+## :computer: Code
 
 {% highlight python linenos %}
 import random
