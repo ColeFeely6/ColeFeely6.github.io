@@ -41,7 +41,7 @@ _________________
         </div>
     </div>
     <div class="caption">
-        If you've ever played against someone who takes smash bros too seriously... concept can also be applied to trainees as well
+        If you've ever played against someone who takes smash bros too seriously... this concept can also be applied to trainees as well
     </div>
 </div>
 
