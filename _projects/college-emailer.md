@@ -17,17 +17,16 @@ category: fun
 </div>
 
 
-# The Projects
+#### [GitHub Repo](https://github.com/ColeFeely6/Independent-Python-Projects/tree/main/college-free-tshirt-emailer)
 
 
+## Introduction
 
-<a href="https://github.com/ColeFeely6/Independent-Python-Projects">GitHub Repository</a>
 
-## College Free T-Shirt Emailer
+The Summer of 2020, my sister showed me a TikTok where kids were asking colleges for free t-shirts, saying they were a student looking to apply and wanted to rep the school and in return, got some free t-shirts! I found this very interesting, so I decided to put my introduction to programming skills to use. I would use a python script to take data from a spreadsheet from all schools in the US and the emails of all the recruitment offices from those schools, then email them inquiring about a free t-shirt. Out of 2,000 schools, surely a few would send one! And indeed they did, I got 5 free t-shirts! It would be interesting to perform this experiment again now that the trend has died down, it seems the schools caught on pretty quick at the time. 
 
-<a href="https://github.com/ColeFeely6/Independent-Python-Projects/tree/main/college-free-tshirt-emailer">Free T-shirt Emailer Folder</a>
+## Building
 
-As you may know from my digital independence post, I am not on TikTok, but in the summer of 2020, my sister was. Apparently there was a trend going around where kids were asking colleges for free t-shirts, saying they were a student looking to apply and wanted to rep the school. I found this very interesting, so I decided to use my introduction to programming skills to use. I would use a python script to take data from a spreadsheet from all schools in the united states and the emails of all the recruitment offices and email them inquiring about a free t-shirt. Out of 2,000 schools, surely a few would send one! And indeed they did, I received a lot of denials but also a 5 free t-shirts! It would be interesting to perform this experiment again now that the trend has died down. 
 
 <div class="container">
     <div class="row">
