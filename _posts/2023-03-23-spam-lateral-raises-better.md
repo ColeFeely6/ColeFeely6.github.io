@@ -7,7 +7,7 @@ tags: training
 categories: training
 ---
 
-## What is 'Spamming'? :trollface:
+## :trollface: What is 'Spamming'? 
 
 
 
