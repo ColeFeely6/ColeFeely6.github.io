@@ -9,6 +9,13 @@ categories: training
 
 ## What is 'Spamming'?
 
+
+
+So I recently have seen a trend through the small threads of fitness videos on YouTube that I consume that discuss a topic that has gotten popular on TikTok apparently where people refer to a protocol given the name "Spam Lateral Raises" (I really hope that you understand what spamming is). Essentially, spamming lateral raises is at the end of every workout session, perform 3-4 sets of various forms of the exercise. As many natural lifters do not have big shoulders and the main way to target the side delts is through lateral raises, this has become a very popular idea to add extra delt volume to your routine. This makes perfect sense, the lateral raise is not a movement that is taxing on the body, you're never going to get sore from a hard set of lateral raises as you would a hard set of squats. Although this is a great idea, I think you can take it even further to save more time in the gym. I've tried to add extra sets of an exercises everyday in the gym and sometimes at the end of a workout, you make excuses for not getting that work in and eventually you're skipping too much for the protocol to be effective. 
+
+> :bulb: Note: This is not an excuse to never get your heavy pressing movements in. You should still include vertical pressing in your routine AND making sure to get your rear delt work in too, not only to avoid imbalances but also for shoulder health reasons. 
+
+
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
@@ -17,10 +24,6 @@ categories: training
     </div>
 </div>
 
-
-So I recently have seen a trend through the small threads of fitness videos on YouTube that I consume that discuss a topic that has gotten popular on TikTok apparently where people refer to a protocol given the name "Spam Lateral Raises" (I really hope that you understand what spamming is). Essentially, spamming lateral raises is at the end of every workout session, perform 3-4 sets of various forms of the exercise. As many natural lifters do not have big shoulders and the main way to target the side delts is through lateral raises, this has become a very popular idea to add extra delt volume to your routine. This makes perfect sense, the lateral raise is not a movement that is taxing on the body, you're never going to get sore from a hard set of lateral raises as you would a hard set of squats. Although this is a great idea, I think you can take it even further to save more time in the gym. I've tried to add extra sets of an exercises everyday in the gym and sometimes at the end of a workout, you make excuses for not getting that work in and eventually you're skipping too much for the protocol to be effective. 
-
-> :lightbulb: Note: This is not an excuse to never get your heavy pressing movements in. You should still include vertical pressing in your routine AND making sure to get your rear delt work in too, not only to avoid imbalances but also for shoulder health reasons. 
 
 
 This concept is not very new at all. People have been training with high frequency with either high intensity or high volume for a while for lagging body parts and it really does work. It's why you see videos on YouTube blow-up where trainees who've never trained their calves consistently start train them daily and see lots of progress. So I don't think spamming lateral raises is the only thing you could do. To borrow the term, you could spam calf raises, or ab work, neck work- movements that won't tax your CNS much. You could also spam easier variations of the 4 main movements like suspension trainer hack squats, push-ups, bodyweight rows, etc. 
