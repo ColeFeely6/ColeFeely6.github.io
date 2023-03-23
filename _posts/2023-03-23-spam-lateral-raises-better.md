@@ -7,7 +7,7 @@ tags: training
 categories: training
 ---
 
-## What is 'Spamming'?
+## What is 'Spamming'? :trollface:
 
 
 
@@ -45,7 +45,7 @@ _________________
     </div>
 </div>
 
-:trollface:
+
 
 I will say that lateral raises are a bit different and can be one of the easiest of not the easiest 'spamable' movements: It takes very little effort, time, equipment and energy to add them to every single movement of your workout. If you've ever supersetted compound movements like the bench press with the pull-up or squats and rows, you know that it can be hard to get through. But supersetting with an easier movement is a lot easier and during that time, you can rest to return to that main movement. Something like deadlifts supersetted with band pull aparts are significantly easier to perform than deadlifts supersetted with pullups. 
 
