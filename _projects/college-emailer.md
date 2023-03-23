@@ -17,8 +17,6 @@ category: fun
 </div>
 
 
-#### [GitHub Repo](https://github.com/ColeFeely6/Independent-Python-Projects/tree/main/college-free-tshirt-emailer)
-
 
 ## Introduction
 
@@ -35,6 +33,12 @@ The Summer of 2020, my sister showed me a TikTok where kids were asking colleges
         </div>
     </div>
 </div>
+
+
+
+
+#### [GitHub Repo](https://github.com/ColeFeely6/Independent-Python-Projects/tree/main/college-free-tshirt-emailer)
+
 
 First thing was to find a spreadsheet online of the college names and their recruiting office's email address. Then, the first scipt was made to parse through that spreadsheet and create two arrays: one for the names of the schools 'names' and one for the emails 'emails'. This file ws called speadsheet_python.py:
 
