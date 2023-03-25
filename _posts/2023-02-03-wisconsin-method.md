@@ -66,6 +66,7 @@ Let's say you hit a bunch of PRs 3 days in a row for the behind the neck push pr
 Yep… that's it. If you've never heard of this style before, you're probably thinking, "WTF, there is no way you can make gains, you're neglecting so many other body parts, so many other movements!! This isn't optimal…" 
 
 &nbsp;
+
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
@@ -90,8 +91,8 @@ Another reason why this works is Step 6 of the method- eating… a lot. Eric is 
 The final secret step is intensity. You've got to pick a lift which gets you excited, it makes you want to go to the gym after waking up- which is another reason to try odd lifts, ones you haven't done before which is fun to hit new PRs and try something new. To accompany that, Eric opts for a pot of coffee before training- which I don't do after kicking my caffeine addiction a year ago. Eric pumps loud metal music infused with blaring heavy guitar rifts and heavy drums. Eric can be found screaming before, during and after his lifts- an intensity which drew many of his viewers to become fans. But there's a method here. By getting yourself pumped, you are getting yourself in the zone and building up confidence to hit a lift. Eric's motto is, 
 
 &nbsp;
-
-> "It's a mindset!". 
+>"It's a mindset!". 
+&nbsp;
 
 <div class="container">
     <div class="row">
@@ -109,11 +110,22 @@ I know that was a long description of Eric and his method but it really needed t
 
 &nbsp;
 
+
+
 # :hammer: My Personal Adaption of the Method
+
+
+
 
 Like many of the readers, I was also a bit wary of only performing one lift per day- especially when I've seen Eric perform accessories and preach about 100 rep lateral raises or curls in some of his rants. I speculate two things: After Eric maxes out, he performs a bunch of accessories willy-nilly just to maintain those areas OR he has two training sessions, one max session and either another where he has a second workout to get some conditioning or cardio or accessory work in OR he hits some accessory or conditioning work whenever he has a free second throughout his day. 
 
+
+
+
 If you haven't read about my current training style in previous posts, here is the basic rundown: My only goals is to train everyday, no matter what. Minimum of 2 minutes. The Wisconsin method is another training every day method which I love. With my school demands being high and going into a career with a lot of travel, training is something that was and can be something easily neglected. This means that sometimes all I can get in on a busy day is a 5 minute conditioning session and that works great. But with the Wisconsin method, you need a minimum of 30 minutes to hit that PR. Some days, I may not have that kind of time. Here's a tip to myself and to the reader- work out in the morning. By intentionally waking up earlier and working out, you are making that time for training, before the rest of the days demands get to you. I say this, but I have yet to train first thing in the morning but it's something I hope to implement when I return to school. 
+
+
+
 
 &nbsp;
 
@@ -127,9 +139,14 @@ If you haven't read about my current training style in previous posts, here is t
 
 &nbsp;
 
+
+
+
 For those afternoon or evening trainees, I suggest that after you hit a warm up lift, perform an easy RPE 6 or 7 accessory lift right after as a superset (Superset all your warm-up sets). For example, while I was training the Axle Press, after I hit a warm up for the press, I did 5-7 pullups. This may not seem like much but if you have say 8 warm up sets before your max attempt, that’s 8 mini sets of pullups, over a week is 56 mini sets and somewhere between 280 and 392 pullups- that's a lot of pullups. This is in 'Greesing the Groove style' so this is not a set that you should be pushing yourself to do. In similar style, if I have time OR take 10 minutes at a separate time of the day, I choose 2-3 accessories to perform in giant set style right after my max attempt. For example, After I hit my axle press, I wanted to work on my heavy swings and I consider my abs a weak point, I hit some landmine abs, swings and landmine split squats for 2 or 3 rounds after my max attempt. Again these weren't anywhere close to failure, probably an RPE 7 at most. These are just getting volume in, 2-3 sets of these accessories is 16-18 sets in a training cycle, 14-21 in a week. So here is what a full Cole-adapted Wisconsin training would look like:
 
 &nbsp;
+
+
 
 - **Main Lift:** Axle Press
 - **Optional:**  Halos, Shoulder Mobility
