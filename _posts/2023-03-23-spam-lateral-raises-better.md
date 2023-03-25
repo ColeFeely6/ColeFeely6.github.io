@@ -51,6 +51,14 @@ I will say that lateral raises are a bit different and can be one of the easiest
 
 What I've been experimenting with is after every single working set and during some warm-up sets, grab a set of dumbbells and do a set of 15-20 lateral raises with medium intensity. This may seem like a lot but it adds very little time as you already have the dumbbells on hand. If you're in a commercial gym, you don't need to take up another machine or more space, and by the end of the workout you would have done 10 or more sets of lateral raises. If you choose to, you can do this a couple times a week and get 20 sets of lateral raises easily during the week with little effort. What I've also been doing is experimenting with what I've been calling 100s, an iteration of the poundstone curls where you pick a light accessory movement and you pick a light working weight and perform 100 repetitions without putting the weight down. 100s lateral raises are great with a band as well, and it's just one big set, no warming up and taking time to rest in between sets. DoggCrapp sets work well here too. So lets say you train 4 times a week, two days you perform my superset-every-movement with lateral raises and the other two days you do 100s. If you're like me and you train everyday, on your lighter days or when you have down time, you can hit a set of quick 100s with a light band, takes 2 minutes. That's a ton of work with very little effort or time added to you're routine. Now that's how you spam lateral raises. 
 
+Also, don't forget:
 
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/bell-curve-meme.jpeg" title="bell curve meme" class="img-fluid rounded z-depth-1" %}
+        </div>
+
+</div>
 _________________
 
