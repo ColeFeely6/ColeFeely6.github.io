@@ -64,24 +64,14 @@ Keep warming up with higher and higher weights until you reach a PR or a lift yo
 Let's say you hit a bunch of PRs 3 days in a row for the behind the neck push press but you stall on day 4. If you really want to improve your press, you could switch to something like an overhead press with chains, axle press, Z-press and so on. Then circle back to your behind the neck push press and continue hitting PRs again. OR… if you were bored of pressing, you could switch to Jefferson Deadlifts. 
 
 Yep… that's it. If you've never heard of this style before, you're probably thinking, "WTF, there is no way you can make gains, you're neglecting so many other body parts, so many other movements!! This isn't optimal…" 
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/angry-nerd.png" title="angry nerd" class="img-fluid rounded z-depth-1" %}
-        </div>
-    </div>
-        <div class="caption">
-        This type of energy...
-    </div>
-</div>
-
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/bell-curve-meme.jpeg" title="bell curve meme" class="img-fluid rounded z-depth-1" %}
         </div>
-
+    <div class="caption">
+        This type of energy...
+    </div>
 </div>
 
 And you wouldn't be wrong, Eric himself acknowledges that this may not be the most optimal way to train, but you can't deny the physique and strength he has cultivated through his years of training this way. Here's why I think it works: Strength is a skill. You've heard it so many times and you've probably seen it. When you train for a certain lift, you can get really strong but as soon as you stop training it consistently or you take a break from the gym, all that strength has disappeared. Your nervous system needs to become accustomed to handling heavy loads in certain movement patterns. You have the ability to squat X amount of weight, but if you aren't training for it, you can only squat a fraction of your truest potential. By training one lift every day, you're fast-forwarding that nervous system adaption. Instead of slowly adapting by training a lift twice a week over the course of months on a traditional program, you skip ahead and do it all and more in a week. When I used the Wiso Method to train Bulgarian Split Squats, on day 1 I could only bulgarian split squat 250 lbs but I had the potential to hit 305 lbs which was what I hit on the final day. I had to get my nervous system geared up to optimally use all my muscles in order to achieve what I had the potential to. By following traditional powerlifting programs, let's say you hit on average overhead press twice a week. Over the course of a 4 week training block, you hit the overhead press 8 times, each time with an RPE of about 8. With this style of training, you hit overhead press the same amount of times in a little over a week, rather than a month, and you would see way more strength gains than you would with the conventional powerlifting style. The conventional method tries to slowly improve all your lifts at the same time for a long period of time because this is how you would initially train for a meet where you hit all the powerlifts at one time. But with the Wisconsin Method, you specialize in one movement, you don’t "major in the minors" as Eric would say. It’s the difference of putting all your eggs into one basket while dispersing them among many. I'm not saying that any method is better than the other, Heck I've only been training this way for a few weeks. Just discussing the differences and why I believe I've seen so much improvement over those few weeks, the amount I would see in a year or more of training. 
