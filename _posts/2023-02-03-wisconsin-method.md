@@ -7,16 +7,44 @@ tags: training
 categories: training
 ---
 
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/bugen-5.jpeg" title="bugen 5" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
 
 # :speech_balloon: Introduction
 
 If you've never heard of Eric Bugenhagen, you're in for a treat. Eric Bugenhagen, aka the Bugez, aka Ric de la stick aka Sticky Ricky aka Stick Del Hagen was a College Athlete on the University of Wisconsin Wrestling team. After graduating, Eric spent some time as a strength coach, even returning to the team as their strength coach while trying to pursue a career in wrestling on the side. Eric Bugenhagen rose to a small popularity on YouTube about 8 years ago for his insane lifts and his intense enthusiasm. Other channels took notice of his charisma and energy, reaching out to collaborate, and Eric's career took off from there. Eric is known for playing a type of character, getting into uploading humerous videos with stock sound effects and funny titles with his devoted fans playing along in the comments. After his rise to internet cult following, Eric's wrestling career started to take off with Eric finally getting bigger and bigger roles in the WWE, where now he is apart of the main cast of wrestlers.  I've been following Eric for years, always inspired by his energy, humor and his strength in the gym. He had an unconventional take to lifting that opposed what mainstream social media was promoting at the time which was to eat in a slight caloric surplus, to stay lean and follow bodybuilding routines. Meanwhile, Eric was preaching to eat to fuel your body with high caloric foods like dates, peanut butter, fig bars and even on the extreme end with eating raw garlic, onions and beets. I was always inspired with Eric's creativity, who always sought to try new things to improve his game from weird lifts or eating pet food… (definitely won't be trying that). One day, I said fuck it and gave his method a go. I fell in love with the style of training, it's so much fun! Training should be fun, you should leave the gym feeling happy with this method. And at the end of the day as a normal lifter who won't be competing or making a living from training, that's the most important thing about exercise- it improves your overall quality of life and makes you a healthier person. 
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/bugen-3.jpeg" title="bugen 5" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
 
 # :collision: The Method 
 
 > :warning: Warning: This method is not for beginners. It requires a couple years of experience hammering techniques of the main movements. It also requires somebody who is not obsessive about eating or looking a certain way. In this style of training, you have to drop those because you won't be training to look a certain way and you will need to eat a certain way as described later. 
 
 Eric is known for his long, 20 minute rants about one topic, but funny enough, he hasn't described his training in great detail apart from a few details going over a simple method. So simple in fact, that it seems like he's hiding things because it goes against what conventional wisdom tells us how to train. Traditionally with bodybuilding programs, you split your program up into training body parts once or twice a week with a ton of volume each session, really hammering a muscle in, then taking 2-3 days of rest a week. With traditional powerlifting methods, you train the Squat, Deadlift and Bench Press with different variations multiple times a week, while manipulating volume, intensity over the course of training blocks. Trainees are used to following spreadsheets and filling in the numbers, believing that the only way to make progress it to follow formulas in a spreadsheet. The way Eric trains, coined by an old training partner as the 'Wisconsin Method', throws all that out the window. From my research, this is the program:
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/eric-2.webp" title="bugen 5" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
 
 ### Step 1: Pick a lift
 Usually, this should be an unconventional lift or something more athletic but really any compound lift that you can load heavy should suffice (I would personally describe an unconventional or odd lift as a lift that you would definitely take note about if you saw it in a commercial gym- think Jefferson Deadlifts, Zercher Squats, Trap Bar Overhead Press, etc). This lift should be something you **WANT** to do. This is key here that I'll talk about later. Let's say for example, you choose a behind the neck push press because you like the movement but your overhead press isn't as strong as you would like. 
@@ -64,6 +92,15 @@ The final secret step is intensity. You've got to pick a lift which gets you exc
 
 > "It's a mindset!". 
 
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/bugen-1.jpeg" title="bugen 5" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
+
 You have to get yourself in the mindset that you **CAN** hit that lift and you will. It's a good life lesson for fighting those self-deprecative thoughts in your head that say you can't. 
 
 I know that was a long description of Eric and his method but it really needed the background to really explain what it is and why it works. 
@@ -73,6 +110,15 @@ I know that was a long description of Eric and his method but it really needed t
 Like many of the readers, I was also a bit wary of only performing one lift per day- especially when I've seen Eric perform accessories and preach about 100 rep lateral raises or curls in some of his rants. I speculate two things: After Eric maxes out, he performs a bunch of accessories willy-nilly just to maintain those areas OR he has two training sessions, one max session and either another where he has a second workout to get some conditioning or cardio or accessory work in OR he hits some accessory or conditioning work whenever he has a free second throughout his day. 
 
 If you haven't read about my current training style in previous posts, here is the basic rundown: My only goals is to train everyday, no matter what. Minimum of 2 minutes. The Wisconsin method is another training every day method which I love. With my school demands being high and going into a career with a lot of travel, training is something that was and can be something easily neglected. This means that sometimes all I can get in on a busy day is a 5 minute conditioning session and that works great. But with the Wisconsin method, you need a minimum of 30 minutes to hit that PR. Some days, I may not have that kind of time. Here's a tip to myself and to the reader- work out in the morning. By intentionally waking up earlier and working out, you are making that time for training, before the rest of the days demands get to you. I say this, but I have yet to train first thing in the morning but it's something I hope to implement when I return to school. 
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/bugen-1.jpeg" title="bugen 5" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+</div>
+
 
 For those afternoon or evening trainees, I suggest that after you hit a warm up lift, perform an easy RPE 6 or 7 accessory lift right after as a superset (Superset all your warm-up sets). For example, while I was training the Axle Press, after I hit a warm up for the press, I did 5-7 pullups. This may not seem like much but if you have say 8 warm up sets before your max attempt, that’s 8 mini sets of pullups, over a week is 56 mini sets and somewhere between 280 and 392 pullups- that's a lot of pullups. This is in 'Greesing the Groove style' so this is not a set that you should be pushing yourself to do. In similar style, if I have time OR take 10 minutes at a separate time of the day, I choose 2-3 accessories to perform in giant set style right after my max attempt. For example, After I hit my axle press, I wanted to work on my heavy swings and I consider my abs a weak point, I hit some landmine abs, swings and landmine split squats for 2 or 3 rounds after my max attempt. Again these weren't anywhere close to failure, probably an RPE 7 at most. These are just getting volume in, 2-3 sets of these accessories is 16-18 sets in a training cycle, 14-21 in a week. So here is what a full Cole-adapted Wisconsin training would look like:
 
@@ -91,6 +137,14 @@ For the Bulgarian split squats, I had no deviations, working up everyday in a ne
 # :warning: Issues with the method
 
 My main gripe with the training style is that it requires you to always have access to a gym with proper equipment and an hour to train everyday. As someone who does not consistently have access to proper equipment because of shitty College Gyms nor guaranteed time to train because of a busy schedule, that is the biggest challenge. With my previous training style, every daily session was easily adapted to these variations and I allowed me to train cardio and conditioning like I wanted. With this method, it's hard to adapt and allow for time to have separate sessions to train cardio and conditioning. 
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/bugen-2.jpeg" title="bell curve meme" class="img-fluid rounded z-depth-1" %}
+        </div>
+
+</div>
 
 First thing I have been playing around with is if you don't have time to access the gym, at home, hit a bodyweight or movement similar to the one you are focusing on with whatever tools you have at home. For example, while training for the Axle Press, when I couldn't make it to the gym, I trained the Handstand Pushup at home. I'd imagine at school if I was training a squat, I would use my sandbags for a split squat at home. The goal is to choose something that has as much resistance as possible OR, like Pavel says, "if you can't train heavy, train fast." Here are some replacement ideas for each movement:
 
