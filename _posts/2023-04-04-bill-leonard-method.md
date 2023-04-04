@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  The Wisconsin Method Review
+title:  The Bill Leonard Method
 date:   2023-02-03 16:40:16
 description: How I put 50 lbs on my Split Squat, Jefferson Deadlift and 20 lbs on my Press in two weeks
-tags: training
-categories: training
+tags: thinking
+categories: thinking
 ---
 <div class="container">
     <div class="row">
