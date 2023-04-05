@@ -14,11 +14,17 @@ categories: thinking
     </div>
 </div>
 
+_________________
+
+
 ## Background
 
 The Bill Leonard method is a technique by one of my professors that I first learned from a special time-management lecture he gave during one of the online semesters over the covid period.  The method served as a way to manage a large workload with ECE classes but could apply to anyone who has multiple tasks to complete at once, especially ones that require lots of brainpower where you often run into mental roadblocks or bugs with code. 
 
 Professor Leonard started the lecture discussing the power of the subconscious mind, the part of the brain that is constantly working on things in the background even while you are doing something else. A great example of this is when you are stuck on a problem before bed and decide to go to bed then when you wake up, you have lots of ideas on how to solve it. That's your subconscious working while you are sleeping. Your subconscious is always working even when you are awake. The BL method takes advantage of this- Here's the method:
+
+_________________
+
 
 ## Method
 
@@ -33,6 +39,12 @@ By rotating to the next project, you are saving a lot of time by not turning a p
 
 Obviously to support this, you need to sleep and take care of your health. But essentially this is a time management tool that I should use more often. Breaks are good. Highly highly highly recommend this to any upcoming student or any professional working on projects with multiple tasks to be completed simultaneously. Especially during my time in college, there could be so much time saved by following this method.  
 
+_________________
+
+
 ## How I apply this in my own life
 
 I would personally combine this with a tip I learned from the Andrew Huberman Podcast where your brain's prime time for work is two hours after you wake up. If I had a busy day, I would set up 2-3 60-90 minute periods where I can have uninterrupted deep work at different parts of the day. Before those bouts, you have complete a small task to warm yourself up. Then start your bout by playing 40 Hz binoral beats, and work on a task until you get stuck, then when you do, ask for help and rotate to the next. Try your best to stay as focused as possible for that 60-90 minute period. Once completed, stop and go take a break. 
+
+_________________
+

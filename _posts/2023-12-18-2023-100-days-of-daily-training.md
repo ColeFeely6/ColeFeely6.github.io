@@ -77,10 +77,10 @@ I often borrowed sessions from the following resources
 
 **Resources:**
 
-Mythical's book of bad ideas
-WODwell App
-Brian Alsruhe shredded for summer
-[GZCL Write-up](http://swoleateveryheight.blogspot.com/2014/02/conditioning-barney-style-how-to-stay.html)
+- Mythical's book of bad ideas
+- WODwell App
+- Brian Alsruhe shredded for summer
+- [GZCL Write-up](http://swoleateveryheight.blogspot.com/2014/02/conditioning-barney-style-how-to-stay.html)
 
 The beauty of conditioning sessions is that it breeds creativity. Only have a dumbbell, jump rope and your bodyweight? You can get a crazy session in. Only have 2 minutes and a kettlebell? Your ass is going to get whooped. 
 
