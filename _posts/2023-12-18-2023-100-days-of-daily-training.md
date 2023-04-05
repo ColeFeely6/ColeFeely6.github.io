@@ -145,30 +145,26 @@ As previously and extensively griped about on this blog, I hate my campus's trai
 Most of my sessions at the gym followed two types of formats:  
 
 **Format A:**
-Warm-up on a big lift
-3-4 sets of a Big Lift
-3 sets Dumbbell variation of big lift superset with a pull movement
-Accessories if I have time
+- Warm-up on a big lift
+- 3-4 sets of a Big Lift
+- 3 sets Dumbbell variation of big lift - superset with a pull movement
+- Accessories if I have time
 
 **Example:**
-Warm up on Squats
-3-4 sets of heavy Squats
-3 sets of DB Bench Superset with Franco Pull-ups
+- Warm up on Squats
+- 3-4 sets of heavy Squats
+- 3 sets of DB Bench Superset with Franco Pull-ups
 
 **Format B:**
-2-3 sets of all the main 4 movements (Push-Pull-Squat-Hinge)
-Lots of Supersets
-2-3 sets of accessories if time
+- 2-3 sets of all the main 4 movements (Push-Pull-Squat-Hinge)
+- Lots of Supersets
+- 2-3 sets of accessories if time
 
 **Example:**
-2 sets of Kettlebell Lunges
-Superset with Ring Dips
-2 sets of Kettlebell Swings
-Superset with Suspension Trainer Rows
-2 sets of Kettlebell Presses
-Superset with Calf Raises
-2 sets of EZ Bar Curls
-Superset with EZ Bar Overhead Tri Extension
+- 2 sets of Kettlebell Lunges superset with Ring Dips
+- 2 sets of Kettlebell Swings superset with Suspension Trainer Rows
+- 2 sets of Kettlebell Presses superset with Calf Raises
+- 2 sets of EZ Bar Curls superset with EZ Bar Overhead Tri Extension
 
 But a lot of the time, I wasn't able to train in they gym. Luckily, I have a sandbag, resistance bands, NordStick, DIY suspension trainer and ab wheel at home so I could always string things together at home. These workouts took format B (obviously using variations of movements with equipment I had) but I when I started to incorporate KOT training into my routine, I would have 2 superset combinations and then the KOT routine. Although I didn't train according to a set program, nearly all my movements were the same from week to week. I needed it to be this way because when I stepped in the gym, the available equipment I could use would vary daily. This mostly included Split Squats and Lunges, Dips, Push-ups, Suspension trainer press or fly and Dumbbell Bench, Swings, Nordic Curls, Snatches, Cleans and RDLs, Press, Push Press, Arnold Press, Lu Raise, Lateral Raise and Front Raise, Pullovers, Pull-up variations, pull-downs and row variations. Accessories were arms, core, traps and calf raises. 
 
@@ -201,14 +197,14 @@ By training this way, I became VERY hungry. So, I simply just ate to support tha
 
 _________________
 
-## :target: Results
+## :book: Results
 
 It was a challenge, there were definitely days where I barely had any time during the day to train but I still made it happen. On those days, just getting some bodyweight conditioning or convict style training in got the thing done. But it was also super rewarding. I made a commitment to myself and held up that for 100 days in a row. I felt happier, getting those endorphins flowing and sense of accomplishment everyday really can improve your overall quality of life. I also made time to train in new ways which was also great to push myself in different verticals but it was also a different feeling of accomplishment afterword. 
 
 
 _________________
 
-## :speech_balloon: Takeaways
+## :bar_chart: Takeaways
 
 You can train everyday and it is probably better for the busier person. Trying to find 60+ minutes a couple times a week is harder than at least 5 minutes everyday. 
 
