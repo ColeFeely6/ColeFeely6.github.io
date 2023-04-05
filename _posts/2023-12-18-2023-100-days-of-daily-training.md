@@ -40,7 +40,7 @@ _________________
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/gym-meme-6.webp" title="produc" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/gym-meme-6.jpeg" title="produc" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
         <div class="caption">
@@ -80,7 +80,7 @@ I often borrowed sessions from the following resources
 Mythical's book of bad ideas
 WODwell App
 Brian Alsruhe shredded for summer
-(GZCL Write-up)[http://swoleateveryheight.blogspot.com/2014/02/conditioning-barney-style-how-to-stay.html]
+[GZCL Write-up](http://swoleateveryheight.blogspot.com/2014/02/conditioning-barney-style-how-to-stay.html)
 
 The beauty of conditioning sessions is that it breeds creativity. Only have a dumbbell, jump rope and your bodyweight? You can get a crazy session in. Only have 2 minutes and a kettlebell? Your ass is going to get whooped. 
 
