@@ -31,7 +31,7 @@ So when I was returning back to school, I thought of adopting a new strategy to 
 
 I mean if the Bugez trains everyday, I also need to. 
 
-
+_________________
 
 ## :school_satchel: The Set-Up
 
@@ -53,7 +53,23 @@ This may be weird and I recommend reading Cody's post on this but I removed goal
 
 Although the following were styles I used, ultimately anything that got my body moving with the intent to better myself or push myself counts as training to me. This means that somedays I just went to they gym and worked on my Jefferson Deadlift. One day I played Pickleball for an hour, another I did 500 calf raises. These weren't the norm but I literally could do anything I wanted, which REALLY got me excited to train. 
 
+
+_________________
+
+
 ### :battery: Conditioning
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/mat-fraser-1.jpeg" title="produc" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+        <div class="caption">
+        Mat Fraser's story really makes you want to get some conditioning work in
+    </div>
+</div>
 
 After reading posts I previously discussed, I thought conditioning would be an excellent style to serves as a new way to challenge myself and the sessions are short! Who really doesn't have 5-15 minutes a day to exercise? When I was having a super busy day and I knew a longer weights session wasn't feasible, I could hit a conditioning session and feel amazing after- I could even do it at home if needed. There was definitely times where it was late in the evening and I didn't get a chance to train yet and I hit a conditioning session in my room before the night came to an end. 
 
@@ -68,11 +84,28 @@ Brian Alsruhe shredded for summer
 
 The beauty of conditioning sessions is that it breeds creativity. Only have a dumbbell, jump rope and your bodyweight? You can get a crazy session in. Only have 2 minutes and a kettlebell? Your ass is going to get whooped. 
 
+
+_________________
+
 ### :runner: Running
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/running-1.jpeg" title="produc" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+        <div class="caption">
+        Mmm yes, stock image of running
+    </div>
+</div>
 
 You won't hear much of this from Cody and others. Actually, Cody and Ben cited running as something that didn't count as a training session for them. I really disagree with this. How does 10 minutes of high intensity training count as a session but 25 minutes of medium intensity not? 
 
 Has this happened to you? You are walking briskly up the stairs and at the top when someone starts a conversation with you, you are slightly out of breathe? Well that was me. It was kind of weird because as someone who has been consistently lifting weights for a few years, you think I would be fit enough for a few flights of stairs. But the reality of the situation is that lifting weights doesn't make you fit. You get really good at couple movements if you powerlift or you look good aesthetically if you body build but in reality you are super unhealthy and couldn't do anything outside of leg press 4 sets of 15. I used to run in high school and the high after a run is absolutely insane. I knew that if I brought that back into my life, it would help me out immensely. Additionally, it was exciting to push myself, to try and train in ways that are uncomfortable. In order to run, all you need is a pair of running shoes- I could do that from anywhere, continuing to reduce the margin for excuses. If I wasn't feeling an intense conditioning session or if I was sore from the weights or if I was excited to listen to a certain podcast, I'd throw on an episode and hit the road. There is just something so special about exercising outside in the fresh air. I loved it so much that whenever I get the opportunity to, I will move my sessions outside. 
+
+_________________
+
 
 ### :crown: Knees Over Toes
 
@@ -89,7 +122,21 @@ Has this happened to you? You are walking briskly up the stairs and at the top w
 
 Now I only started incorporating this style into my training about half way through. I got sucked into Ben Patrick's videos and his book and it really got me motivated to train in a style which strengthens my joints to ensure that I could become more injury resilient and improve my health down the line. My long term goals is to still be exercising in my 50s, I don't want my time training now to leave me broken and unhealthy at that time. Additionally, I have had an interest in learning to play basketball or join a Sunday soccer league after graduation and becoming a good athlete would feel like so much fun. I got Ben Patrick's Knee Ability Zero and it game me yet another tool to use if I had to train in my room or with limited equipment. Not going to lie, the training was not easy, and it has been cool to be new and not good at something. After KA0, Ben said that the KOT training is once per week but I would do anything to push around a sled if I could outside of that day. 
 
+
+_________________
+
 ### :bomb: Resistance Training
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/eric-2.jpeg" title="produc" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+        <div class="caption">
+        Of course... the Bugez
+    </div>
+</div>
 
 I know a lot of readers will hate this but I have to admit it, I freestyled all of my weightlifting sessions. I know, I know, the keyboard warriors are throwing a fit right now, telling me about how suboptimal I've been and more. But like I mentioned before, I was pretty unexcited to train following a spreadsheet and consistent barbell training wasn't a choice for me. Most people would be super frustrated about that, but I've had experience with training with limited equipment and I honestly prefer it. 
 
@@ -133,13 +180,22 @@ This was the first time I trained single leg squat movements in a long time. It 
 
 Another thing worth mentioning was that I had the chance to have some sessions with the heavy sandbag and oh my, what a treat. 
 
+
+_________________
+
 ### :bento: Fueling
 
 By training this way, I became VERY hungry. So, I simply just ate to support that. I like to keep eating simple and unrestrictive. I focused on having 3-4 meals where there was a protein source, carb source and a veggie source. Beyond that, I would always have calorie dense snacks throughout the day like peanut butter sandwiches, dates, bagels, trail mix, fig bars etc. 
 
+
+_________________
+
 ## :target: Results
 
 It was a challenge, there were definitely days where I barely had any time during the day to train but I still made it happen. On those days, just getting some bodyweight conditioning or convict style training in got the thing done. But it was also super rewarding. I made a commitment to myself and held up that for 100 days in a row. I felt happier, getting those endorphins flowing and sense of accomplishment everyday really can improve your overall quality of life. I also made time to train in new ways which was also great to push myself in different verticals but it was also a different feeling of accomplishment afterword. 
+
+
+_________________
 
 ## :speech_balloon: Takeaways
 
