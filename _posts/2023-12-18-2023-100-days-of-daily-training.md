@@ -29,7 +29,7 @@ Fast forward two years and I'm coming into the second half of my fourth year of 
 
 So when I was returning back to school, I thought of adopting a new strategy to training like I did the previous year to account for my bust schedule (last year having only 1 hour workouts was a big deal to me). I was also coming off of a big mental health growth spurt and I felt a lot more confident in myself and my body, and using exercise as a boost to my overall quality of health was also a leading factor. I experimented with quick workouts before school started because at the time, that was all that motivated me to train, just some simple kettlebell stuff was all that was interesting to me. During one of these sessions, I was listening to mind pump and they just came out with an episode discussing a blueprint for exercising 6 days a week for 20 minutes. I don't know why it sounded so simple but what they were saying really clicked with me and I remembered the posts from Cody and Ben and I thought if I were to shoot for 6, why not make it 7. And thus, my adventure begun. 
 
-I mean if the Bugez trains everyday, I also need to. 
+
 
 _________________
 
@@ -184,6 +184,17 @@ Another thing worth mentioning was that I had the chance to have some sessions w
 _________________
 
 ### :bento: Fueling
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.html path="assets/img/strongest-eating.jpeg" title="produc" class="img-fluid rounded z-depth-1" %}
+        </div>
+    </div>
+        <div class="caption">
+        Iykyk
+    </div>
+</div>
 
 By training this way, I became VERY hungry. So, I simply just ate to support that. I like to keep eating simple and unrestrictive. I focused on having 3-4 meals where there was a protein source, carb source and a veggie source. Beyond that, I would always have calorie dense snacks throughout the day like peanut butter sandwiches, dates, bagels, trail mix, fig bars etc. 
 
