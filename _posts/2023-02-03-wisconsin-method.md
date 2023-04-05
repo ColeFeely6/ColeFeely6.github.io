@@ -67,6 +67,16 @@ Yep… that's it. If you've never heard of this style before, you're probably th
 
 &nbsp;
 
+&nbsp;
+
+
+&nbsp;
+
+
+
+
+
+
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
@@ -79,12 +89,30 @@ Yep… that's it. If you've never heard of this style before, you're probably th
 
 &nbsp;
 
-
-And you wouldn't be wrong, Eric himself acknowledges that this may not be the most optimal way to train, but you can't deny the physique and strength he has cultivated through his years of training this way. Here's why I think it works: Strength is a skill. You've heard it so many times and you've probably seen it. When you train for a certain lift, you can get really strong but as soon as you stop training it consistently or you take a break from the gym, all that strength has disappeared. Your nervous system needs to become accustomed to handling heavy loads in certain movement patterns. You have the ability to squat X amount of weight, but if you aren't training for it, you can only squat a fraction of your truest potential. By training one lift every day, you're fast-forwarding that nervous system adaption. Instead of slowly adapting by training a lift twice a week over the course of months on a traditional program, you skip ahead and do it all and more in a week. When I used the Wiso Method to train Bulgarian Split Squats, on day 1 I could only bulgarian split squat 250 lbs but I had the potential to hit 305 lbs which was what I hit on the final day. I had to get my nervous system geared up to optimally use all my muscles in order to achieve what I had the potential to. By following traditional powerlifting programs, let's say you hit on average overhead press twice a week. Over the course of a 4 week training block, you hit the overhead press 8 times, each time with an RPE of about 8. With this style of training, you hit overhead press the same amount of times in a little over a week, rather than a month, and you would see way more strength gains than you would with the conventional powerlifting style. The conventional method tries to slowly improve all your lifts at the same time for a long period of time because this is how you would initially train for a meet where you hit all the powerlifts at one time. But with the Wisconsin Method, you specialize in one movement, you don’t "major in the minors" as Eric would say. It’s the difference of putting all your eggs into one basket while dispersing them among many. I'm not saying that any method is better than the other, Heck I've only been training this way for a few weeks. Just discussing the differences and why I believe I've seen so much improvement over those few weeks, the amount I would see in a year or more of training. 
+&nbsp;
 
 &nbsp;
 
+
+
+
+
+
+
+And you wouldn't be wrong, Eric himself acknowledges that this may not be the most optimal way to train, but you can't deny the physique and strength he has cultivated through his years of training this way. Here's why I think it works: Strength is a skill. You've heard it so many times and you've probably seen it. When you train for a certain lift, you can get really strong but as soon as you stop training it consistently or you take a break from the gym, all that strength has disappeared. Your nervous system needs to become accustomed to handling heavy loads in certain movement patterns. You have the ability to squat X amount of weight, but if you aren't training for it, you can only squat a fraction of your truest potential. By training one lift every day, you're fast-forwarding that nervous system adaption. Instead of slowly adapting by training a lift twice a week over the course of months on a traditional program, you skip ahead and do it all and more in a week. When I used the Wiso Method to train Bulgarian Split Squats, on day 1 I could only bulgarian split squat 250 lbs but I had the potential to hit 305 lbs which was what I hit on the final day. I had to get my nervous system geared up to optimally use all my muscles in order to achieve what I had the potential to. By following traditional powerlifting programs, let's say you hit on average overhead press twice a week. Over the course of a 4 week training block, you hit the overhead press 8 times, each time with an RPE of about 8. With this style of training, you hit overhead press the same amount of times in a little over a week, rather than a month, and you would see way more strength gains than you would with the conventional powerlifting style. The conventional method tries to slowly improve all your lifts at the same time for a long period of time because this is how you would initially train for a meet where you hit all the powerlifts at one time. But with the Wisconsin Method, you specialize in one movement, you don’t "major in the minors" as Eric would say. It’s the difference of putting all your eggs into one basket while dispersing them among many. I'm not saying that any method is better than the other, Heck I've only been training this way for a few weeks. Just discussing the differences and why I believe I've seen so much improvement over those few weeks, the amount I would see in a year or more of training. 
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+
 Another reason why this works is Step 6 of the method- eating… a lot. Eric is notorious for packing in calories, like it's a second job. He preaches to eat foods with high calories like dried fruits, bagels, drinking a gallon of milk a day and more. He even goes as far as carrying around a fanny pack of fig bars. Although he has stopped drinking a gallon of milk a day and mostly follows a vegetarian-esk diet now adays, logically, it makes sense. Everyday, you're sending a massive signal to your body to grow and you're giving you body plenty of resources to do that. But what I've found is that your body **NEEDS** this type of eating. I've been **RAVINOUSLY** hungry, I've been finding myself constantly snacking, and looking to those higher calorie foods jut to hold me over. 
+
+
+&nbsp;
 
 &nbsp;
 
@@ -97,7 +125,7 @@ The final secret step is intensity. You've got to pick a lift which gets you exc
 <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
-            {% include figure.html path="assets/img/bugen-1.jpeg" title="bugen 5" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/bugen-2.jpeg" title="bugen 5" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
 </div>
@@ -109,6 +137,8 @@ You have to get yourself in the mindset that you **CAN** hit that lift and you w
 I know that was a long description of Eric and his method but it really needed the background to really explain what it is and why it works. 
 
 &nbsp;
+
+
 
 
 
