@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Don't Be a STEM-Lord
-date:   2023-03-06 16:40:16
+date:   2023-03-07 16:40:16
 description: Become self aware of how you interact with others
 tags: thinking 
 categories: thinking

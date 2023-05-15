@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Spam Lateral Raises Better
-date:   2023-02-03 16:40:16
+date:   2023-03-23 16:40:16
 description: Blow up your delts more efficiently
 tags: training
 categories: training
