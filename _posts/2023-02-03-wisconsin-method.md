@@ -72,15 +72,16 @@ Yep… that's it. If you've never heard of this style before, you're probably th
 
 
 
-<!-- <div class="container">
+<div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/bell-curve-meme.jpeg" title="bell curve meme" class="img-fluid rounded z-depth-1" %}
         </div>
+
     <div class="caption">
         This type of energy...
     </div>
-</div> -->
+</div>
 
 <br>
 <br>
@@ -107,9 +108,14 @@ Another reason why this works is Step 6 of the method- eating… a lot. Eric is 
 
 The final secret step is intensity. You've got to pick a lift which gets you excited, it makes you want to go to the gym after waking up- which is another reason to try odd lifts, ones you haven't done before which is fun to hit new PRs and try something new. To accompany that, Eric opts for a pot of coffee before training- which I don't do after kicking my caffeine addiction a year ago. Eric pumps loud metal music infused with blaring heavy guitar rifts and heavy drums. Eric can be found screaming before, during and after his lifts- an intensity which drew many of his viewers to become fans. But there's a method here. By getting yourself pumped, you are getting yourself in the zone and building up confidence to hit a lift. Eric's motto is, 
 
-&nbsp;
->"It's a mindset!". 
-&nbsp;
+<br>
+<br>
+
+>"It's a mindset!" 
+
+<br>
+<br>
+
 
 <div class="container">
     <div class="row">
