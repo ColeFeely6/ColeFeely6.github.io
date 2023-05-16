@@ -72,7 +72,7 @@ Yep… that's it. If you've never heard of this style before, you're probably th
 
 
 
-<div class="container">
+<!-- <div class="container">
     <div class="row">
         <div class="col-sm mt-3 mt-md-0">
             {% include figure.html path="assets/img/bell-curve-meme.jpeg" title="bell curve meme" class="img-fluid rounded z-depth-1" %}
@@ -80,7 +80,7 @@ Yep… that's it. If you've never heard of this style before, you're probably th
     <div class="caption">
         This type of energy...
     </div>
-</div>
+</div> -->
 
 <br>
 <br>
