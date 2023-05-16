@@ -3,8 +3,8 @@ layout: post
 title:  ECE Classes Guide
 date:   2023-03-06 16:40:16
 description: a guide on the course work for a Computer Engineering major at UMass Amherst
-tags: computers 
-categories: computers 
+tags: ECE
+categories: ECE 
 ---
 <div class="container">
     <div class="row">

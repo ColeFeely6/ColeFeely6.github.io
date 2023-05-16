@@ -3,8 +3,8 @@ layout: post
 title:  Don't Be a STEM-Lord
 date:   2023-03-07 16:40:16
 description: Become self aware of how you interact with others
-tags: thinking 
-categories: thinking
+tags: ECE 
+categories: ECE
 ---
 
 > **[STEM-Lord](https://en.wiktionary.org/wiki/STEMlord#:~:text=STEMlord%20(plural%20STEMlords),one%20who%20disparages%20the%20humanities.)** * /n (plural STEMlords) (slang, derogatory) * A self-important, condescending person with a background and/or interest in a STEM field, particularly one who disparages the humanities.
