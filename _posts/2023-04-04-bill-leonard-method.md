@@ -4,7 +4,7 @@ title:  The Bill Leonard Method
 date:   2023-02-03 16:40:16
 description: A productivity technique 
 tags: thinking, ECE
-categories: thinking, ECE
+categories: thinking ECE
 ---
 <div class="container">
     <div class="row">
